@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's way wealth and honour in a dialogue between and English-man and a Dutch-man.</title>
+            <author>Puckle, James, 1667?-1724.</author>
+         </titleStmt>
+         <extent>Approx. 89KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56245</idno><idno type="EEBO-CITATION">99834580</idno>
+  <idno type="VID">39082</idno>
+  <idno type="EEBO-PROQUEST">2248548588</idno>
+  
+            <idno type="STC">Wing P4162</idno>
+            <idno type="STC">ESTC R224131</idno>
+            <idno type="PROQUEST">99834580</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834580e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56245)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39082)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1818:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's way wealth and honour in a dialogue between and English-man and a Dutch-man.</title>
+                  <author>Puckle, James, 1667?-1724.</author>
+               </titleStmt>
+               <extent>[8], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Crouch at the corner of Popes-Head-Alley, over-against the Royal Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also published under titles: "England's interests ..", "A new dialogue between a burgermaster and an English gentleman ..", "England's path to wealth and honour ..", "The advantages of the fishery to Great Britain demonstrated.".</note>
+                  <note>Dedication signed: James Puckle.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fisheries --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39082:1"/>
+            <p>England's Way TO <hi>Wealth and Honour:</hi> IN A DIALOGUE BETWEEN An <hi>English-man</hi> AND A <hi>DƲTCH-MAN.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Luke V. 4.</hi>
+               </bibl>
+               <p>Launch out into the Deep, and let down your Nets for a Draught.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Sam. Crouch</hi> at the Corner of <hi>Popes-Head-Alley,</hi> over-against the <hi>Royal Exchange</hi> in <hi>Cornhill.</hi> 1699.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:39082:2"/>
+            <pb facs="tcp:39082:2"/>
+            <head>To His Grace the Duke of <hi>LEEDS, President</hi> of his Majesty's most Honourable <hi>Privy Council.</hi>
+            </head>
+            <opener>
+               <salute>May it Please your Grace,</salute>
+            </opener>
+            <p>NO Person having spent more Money, or taken more Pains than your Grace, to Re-establish the Fishery of <hi>England,</hi> I presume to Dedicate to your Grace the following Dialogue; not that I have the Vanity to think this my poor Mite can make any Addition to your Graces great Treasure of Knowledge; but as believing the Fact in this little Book contained so True, that it may safely appear before the best of Judges; I am with all Respect,</p>
+            <closer>
+               <signed>
+                  <hi>Your Graces Most Humble, Most Faithful, And most Obedient Servant,</hi> James Puckle.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:39082:3"/>
+            <pb facs="tcp:39082:3"/>
+            <head>PREFACE.</head>
+            <p>THE Highlands of <hi>Scotland, Wales, Biscay, Switzerland,</hi> and other Countries <hi>(not worth the Conquering)</hi> continue still in Possession of their Aborigines: Whereas <hi>England</hi> being a Country <hi>(as was said of the Tree of Pa<g ref="char:EOLhyphen"/>radise)</hi> good for Food, pleasant to the Eyes, and to be desired, hath been Possessed by Five several Nations, and Coveted by many more.</p>
+            <p>Yet view our Coasts, they'll appear bold, and but thinly Inhabited; and the Civil Wars of our Island having occasioned the Demolishing of its strong Holds, in case of Attack, How can we be de<g ref="char:EOLhyphen"/>fended against Powerful Enemies, but by a Naval Power?</p>
+            <p>As for our Navy, allowing us Masters of more tall Ships, than any of our Neighbours, What Security can they afford us, if we want Sea<g ref="char:EOLhyphen"/>men?</p>
+            <pb facs="tcp:39082:4"/>
+            <p>Now whether Marriners be wanting in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> best appears by our turning 'em o're from Ship to Ship, by our long, long Embargo's, and yet excessive Charge in Pressing Seamen, and by so many of our Ships being lost <hi>(during the late War)</hi> for want of their Complement.</p>
+            <p>Nor is this Defect to be supplied but by a National Fishery: For Men of War and Mer<g ref="char:EOLhyphen"/>chantmen spend many Marriners and breed few; the great and best Nursery for Seamen is the Fishery, where every Buss brings up it may be, Six, Eight, or Ten new Men every Year; and the Fishermen's Business lying where our Ships danger lies, makes them know how the Sands shift, where the Rocks and Shelves are, consequently most able Coasters, and admirable Pilots.</p>
+            <p>Besides, by frequent riding out great Storms in small Busses and Doggers, Fishermen b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>come so steel'd and habituated to Danger, that in Tempests and En<g ref="char:EOLhyphen"/>gagements they work Wonders: And the Fish ly<g ref="char:EOLhyphen"/>ing upon our own Coasts, the Men we Employ to catch them <hi>(tho' out of his Majesty's pay)</hi> will be ever at hand, and so ready for Service, as to make our watchfullest Enemies despair of surpri<g ref="char:EOLhyphen"/>sing us.</p>
+            <pb facs="tcp:39082:4"/>
+            <p>
+               <q>Again, the Lord Chief Justice <hi>Hale</hi> says, That a due care for the Poor is an Act of great Civil Prudence, and Political Wisdom; for Poverty in it self is apt to Emasculate the Minds of Men, or at least it makes Men tumul<g ref="char:EOLhyphen"/>tuous and unquiet. Where there are many very Poor, the Rich cannot long or safely continue such; Necessity renders Men of phlegmatick and dull Natures, stupid and indisciplinable; and Men of more Fiery or Active Constitutions, rapacious and desperate.</q>
+            </p>
+            <p>Now what better Provisions can be made for the Poor, than by Establishing a National Fishery, which <hi>(as is shown in the following Dialogue)</hi> will be a most effectual Expedient to Employ them, and turn the great Burthen of our Nation into an equal Benefit.</p>
+            <p>Much more might be said to this purpose, but at present shall only add, That within this Thirty Years last past, our Active Neighbours the <hi>French</hi> have Encreased their Navigation to a Proverb, given <hi>Europe</hi> much Disquiet, and cost <hi>England (in particular)</hi> abundance of Blood and Trea<g ref="char:EOLhyphen"/>sure.</p>
+            <pb facs="tcp:39082:5"/>
+            <p>But had <hi>English-men</hi> not been guilty of more than <hi>Spanish</hi> Sloath, in not putting forth their Hands to take that Rich Blessing <hi>(the Fishery)</hi> which Pro<g ref="char:EOLhyphen"/>vidence by placing upon our Coasts, courts us <hi>(as it were)</hi> to receive, all our <hi>SOVEREIGNS (as well as Queen</hi> Elizabeth) might have bounded the Numbers of the <hi>French</hi> Fleet, and would have long since been
+<q>
+                  <l>Pacis Europae Arbitri</l>
+                  <l>Maris Domini &amp; Vindices.</l>
+               </q>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:39082:5"/>
+            <head>A NEW DIALOGUE Between an <hi>Englishman</hi> and a <hi>Dutchman.</hi>
+            </head>
+            <sp>
+               <speaker>Dutchman.</speaker>
+               <p>GOOD Morrow Friend, what art musing on?</p>
+            </sp>
+            <sp>
+               <speaker>Englishman.</speaker>
+               <p>Consider<g ref="char:EOLhyphen"/>ing the Extent of these <hi>Dykes,</hi> I was thinking what excessive <hi>charge</hi> and <hi>pains <hi>Holland</hi>
+                  </hi> is yearly at to <hi>defend</hi> it self a<g ref="char:EOLhyphen"/>gainst <hi>Invading Waves;</hi> whereas the <hi>Seas</hi> that encircle <hi>happy <hi>England</hi> (Barriere like)</hi> fenceth it against <hi>Surprise</hi> and <hi>Ravages,</hi> exempts us from the <hi>Charge</hi> and <hi>Terrour</hi> of <hi>Garrisons</hi> and <hi>Fortifications;</hi> and <hi>(with <hi>our</hi> Floating Castles)</hi> continues to <hi>us</hi> that <hi>Quiet Liberty</hi> and <hi>Security</hi> the rest of <hi>
+                     <hi>Europe</hi> (more or less)</hi> have lost.</p>
+               <p>Besides the cold <hi>Winds (being moisten'd by the Vapours, or softned hy the warmth of the Seas mo<g ref="char:EOLhyphen"/>tion, before they reach our Island)</hi> are less <hi>fierce,</hi> and the <hi>Air</hi> is far more <hi>mild</hi> and <hi>temperate (if
+<pb n="2" facs="tcp:39082:6"/> not more healthy)</hi> than any part of the <hi>Continent</hi> under the same <hi>Climate;</hi> so that we have no <hi>necessity</hi> for <hi>Grotto's</hi> in <hi>Summer</hi> or <hi>Stoves</hi> in <hi>Winter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>In my Opinion the <hi>Country</hi> is most <hi>happy</hi> that is blest with the greatest <hi>Trade;</hi> and that <hi>Air</hi> still the best where most <hi>Money</hi> is stirring; for <hi>Poverty</hi> and <hi>Want</hi> will render <hi>People. <hi>Un<g ref="char:EOLhyphen"/>healthy</hi>
+                  </hi> in all <hi>Climates;</hi> wherefore if you'd charm <hi>me</hi> with <hi>your <hi>Island,</hi>
+                  </hi> prove it hath <hi>more</hi> and <hi>richer <hi>Growths</hi>
+                  </hi> and <hi>Products</hi> for <hi>Traffick</hi> and <hi>Commerce</hi> then <hi>Holland.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Know then that <hi>England</hi> hath many <hi>Mines, Rocks, Pitts,</hi> and <hi>Quarries,</hi> abounding with<note n="(a)" place="bottom">Derby-shire, Nottingham-shire, Stafford-shire,</note>
+                  <hi>Alablaster,</hi>
+                  <note n="(b)" place="bottom">Derby-shire,</note>
+                  <hi>Antimony,</hi>
+                  <note n="(c)" place="bottom">Cornwall,</note>
+                  <hi>Ardois,</hi>
+                  <note n="(d)" place="bottom">Cumberland,</note>
+                  <hi>Black-Lead,</hi>
+                  <note n="(e)" place="bottom">Sussex,</note>
+                  <hi>Chalk,</hi>
+                  <note n="(f)" place="bottom">Derbyshire,</note>
+                  <hi>Chrystal,</hi>
+                  <note n="(g)" place="bottom">Dorsetshire,</note>
+                  <hi>Tobacco-pipe <hi>Clay,</hi>
+                  </hi>
+                  <note n="(h)" place="bottom">Carmarthen-shire, Cumberland, Durham, Lancashire, Leicester-shire, Nor<g ref="char:EOLhyphen"/>thumberland, Shrop-shire, Stafford-shire, York-shire,</note>
+                  <hi>Coals</hi> of divers sorts,<note n="(i)" place="bottom">Cornwall, Cumberland, Derby-shire, Staffordshire, York-shire,</note>
+                  <hi>Copper,</hi>
+                  <note n="(k)" place="bottom">Bedford-shire, Surrey,</note>
+                  <hi>Fullers-Earth,</hi>
+                  <note n="(l)" place="bottom">Dorset-shire</note>
+                  <hi>Freestone,</hi>
+                  <note n="(m)" place="bottom">Derby-shire, Durham, Gloucester-shire, Hampshire, Shrop-shire, Stafford-shire, Warwick-shire,</note>
+                  <hi>Iron,</hi>
+                  <note n="(n)" place="bottom">Somerset-shire,</note>
+                  <hi>La<g ref="char:EOLhyphen"/>pis-Calaminaris,</hi> to make Brass,<note n="(o)" place="bottom">Devon-shire.</note>
+                  <hi>Load<g ref="char:EOLhyphen"/>stones,</hi>
+                  <pb n="3" facs="tcp:39082:6"/>
+                  <note n="(p)" place="bottom">Cardigan-shire, Carmarthen-shire, Derby-shire, De<g ref="char:EOLhyphen"/>von-shire, Durham, Stafford-shire, York-shire,</note>
+                  <hi>Lead,</hi>
+                  <note n="(q)" place="bottom">Derby-shire, Dorset-shire,</note>
+                  <hi>Marble,</hi>
+                  <note n="(r)" place="bottom">Anglesey, Cheshire, Derby-shire, Flint-shire,</note> Mil<g ref="char:EOLhyphen"/>stones,<note n="(s)" place="bottom">Nottingham-shire,</note>
+                  <hi>Plaister</hi> harder than that of <hi>Paris,</hi>
+                  <note n="(t)" place="bottom">Carmarthenshire,</note>
+                  <hi>Potters Dar,</hi>
+                  <note n="(u)" place="bottom">Cornwall,</note>
+                  <hi>Slate,</hi>
+                  <note n="(w)" place="bottom">Cheshire, Cumberland, Worcester-shire,</note>
+                  <hi>Salt,</hi>
+                  <note n="(x)" place="bottom">Gloucester-shire,</note>
+                  <hi>Steel,</hi>
+                  <note n="(y)" place="bottom">Cornwall, Devon-shire,</note>
+                  <hi>Cinn,</hi>
+                  <note n="(z)" place="bottom">Derby-shire.</note>
+                  <hi>Whetstones,</hi> &amp;c.</p>
+               <p>Upon its <hi>Coasts</hi> are found<note n="(a)" place="bottom">Norfolk,</note>
+                  <hi>Amber,</hi>
+                  <note n="(b)" place="bottom">Cornwall,</note>
+                  <hi>Ambergrise,</hi>
+                  <note n="(c)" place="bottom">Whitstable Shallow,</note> abundance of <hi>Copperice stone,</hi>
+                  <note n="(d)" place="bottom">Norfolk,</note>
+                  <hi>Iett,</hi>
+                  <note n="(e)" place="bottom">Cumberland,</note>
+                  <hi>Pearls,</hi>
+                  <note n="(f)" place="bottom">Cornwall, Glaucestershire,</note> fine tran<g ref="char:EOLhyphen"/>sparent <hi>Pebbles,</hi> &amp;c. In short <hi>(not to menti<g ref="char:EOLhyphen"/>on the <hi>Rich</hi> Commodities yearly imported from its Fruitful Plantations, that are to <hi>it</hi> as so many Mines of Treasure.) <hi>England</hi>
+                  </hi> so abounds with <hi>Corn, Cattle, Fowle, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ruit, Pulse, Leather, Wool,</hi> &amp;c. that tho <hi>its</hi> Inhabi<g ref="char:EOLhyphen"/>tants are above <hi>Seven Millions</hi> and <hi>Fifty five thousand Souls,</hi> it produceth <hi>Food</hi> and <hi>Rai<g ref="char:EOLhyphen"/>ment</hi> sufficient for <hi>treble</hi> their Numbers.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>What signifies all this in Comparison to the<note n="(g)" place="bottom">So the <hi>Dutch</hi> in a Proclam. <hi>1624.</hi> stiled <hi>the Fishing Trade.</hi>
+                  </note>
+                  <hi>Golden Mines</hi> of our <hi>Pro<g ref="char:EOLhyphen"/>vinces,</hi> which have yielded us more Trea<g ref="char:EOLhyphen"/>sure
+<pb n="4" facs="tcp:39082:7"/> than the <hi>Mines</hi> of <hi>Potosi,</hi> or both <hi>Indies</hi> to <hi>Spain.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>The <hi>Golden Mines</hi> of your Provin<g ref="char:EOLhyphen"/>ces, Pray where do they lye?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>In <hi>Neptunes Vivarium,</hi> which the <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> call <hi>their <hi>Seas.</hi>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Our Famous <hi>Edgar,</hi> with a <hi>Navy</hi> of 400 Sail, vindicated his <hi>Dominion</hi> on our ad<g ref="char:EOLhyphen"/>jacent <hi>Seas;</hi> and <hi>Records</hi> mention his Suc<g ref="char:EOLhyphen"/>cessor <hi>Canutus</hi> to have laid that ancient Tribute called <hi>Dane-gelt</hi> upon all, whether <hi>Strangers</hi> or <hi>Denizons,</hi> Trading on our <hi>Coasts</hi> or <hi>Seas. <hi>Egbert, Althred,</hi>
+                  </hi> and <hi>Ethelfred,</hi> all stiled themselves <hi>Supream Lords</hi> and <hi>Gover<g ref="char:EOLhyphen"/>nors</hi> of the <hi>Ocean</hi> surrounding the <hi>Brittish Shore.</hi> King <hi>Iohn</hi>
+                  <note n="(h)" place="bottom">
+                     <hi>A</hi>
+                     <seg rend="sup">o</seg> 1200.</note> challenged the Ho<g ref="char:EOLhyphen"/>nour <hi>(or rather Duty)</hi> of the <hi>Flag,</hi> univer<g ref="char:EOLhyphen"/>sally paid <hi>us,</hi> not barely as a <hi>Civility,</hi> but as a <hi>Right,</hi> and <hi>(debitâ reverentia)</hi> acknowledging <hi>our <hi>Title</hi>
+                  </hi> and <hi>Dominion.</hi> The famous <hi>Record</hi> enti<g ref="char:EOLhyphen"/>tuled, <hi>Pro Hominibus Hollandiae,</hi> shews how ob<g ref="char:EOLhyphen"/>sequious <hi>your <hi>Ancestors</hi>
+                  </hi> were, not only in ac<g ref="char:EOLhyphen"/>knowledging<note n="(i)" place="bottom">
+                     <hi>A</hi>
+                     <seg rend="sup">o</seg> 1295.</note>
+                  <hi>Edward</hi> the First's <hi>Domi<g ref="char:EOLhyphen"/>nion</hi> on the <hi>Sea,</hi> but craving his <hi>Protection</hi> and <hi>Permission</hi> to <hi>Fish</hi> on the <hi>Coasts</hi> of <hi>England;</hi> and had not the <hi>Sovereignty</hi> of the <hi>Brittish Seas</hi> in <hi>Fact,</hi> been in the <hi>Crown</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> why did the<note n="(k)" place="bottom">
+                     <hi>Rot. Pat.</hi> 23. Ed. 1st. Memb. 5.</note>
+                  <hi>Earls</hi> of <hi>Holland</hi> Pe<g ref="char:EOLhyphen"/>tition
+<pb n="5" facs="tcp:39082:7"/>
+                  <hi>Edward</hi> the Third (and the<note n="(l)" place="bottom">Rot. Pat. 22. Ed. 4. Memb. 2.</note>
+                  <hi>French</hi> our <hi>Henry</hi> the Sixth) for <hi>leave</hi> to <hi>Fish</hi> therein? And why did <hi>your</hi>
+                  <note n="(m)" place="bottom">Camb. Britt.</note>
+                  <hi>Schippers</hi> use to pur<g ref="char:EOLhyphen"/>chase <hi>License</hi> from <hi>Scarbrough-Castle,</hi> before they presumed to <hi>cast</hi> a <hi>Nett</hi> upon the <hi>North Coasts</hi> of <hi>England.</hi> Wherefore did <hi>Philip</hi> the Second of <hi>Spain</hi>
+                  <note n="(n)" place="bottom">
+                     <hi>A</hi>
+                     <seg rend="sup">o</seg> 1552.</note> obtain <hi>License</hi> of Queen <hi>Mary,</hi> for his <hi>Subjects</hi> to <hi>Fish</hi> upon the <hi>North Coasts</hi> of <hi>Ireland,</hi> for the Term of 21 Years, for which was <hi>yearly</hi> paid <hi>One thou<g ref="char:EOLhyphen"/>sand</hi> Pounds into the <hi>Exchequer</hi> of <hi>Ireland,</hi> as by the <hi>Records</hi> appears.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>A <hi>Fig</hi> for <hi>your</hi> mouldy <hi>Records;</hi> I say the <hi>Sea</hi> is as free to <hi>Fish</hi> in as—</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>—as the <hi>Roads</hi> of <hi>Holland <hi>(where both Natives and Foreigners are forced to pay Passage Ghelt)</hi>
+                  </hi> are to <hi>travel</hi> in.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Don't Interrupt me Sir; I say the <hi>Sea</hi> is as <hi>free</hi> to <hi>Fish</hi> in, as the <hi>Air</hi> is to <hi>Breath</hi> in, who doubts it may read <hi>Hugo Grotius <hi>'s Mare Liberum.</hi>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>
+                  <hi>Grotius</hi> in his <hi>Sylvae,</hi> upon the Inau<g ref="char:EOLhyphen"/>guration of <hi>King <hi>Iames,</hi> (before he was per<g ref="char:EOLhyphen"/>verted by the Importunities of his Country men)</hi> speaking his thoughts freely says,
+<q>
+                     <l>—Tria Sceptra profundi</l>
+                     <l>In Magnum Coiere ducem</l>
+                  </q>
+                  <pb n="6" facs="tcp:39082:8"/> The <hi>Rights</hi> of the <hi>English, Scottish</hi> and <hi>Irish <hi>Seas,</hi>
+                  </hi> are united under one <hi>Scepter;</hi> nei<g ref="char:EOLhyphen"/>ther is he satisfy'd with that bare Profession.</p>
+               <q>Sume animos a Rege tuo qui dat Jura Mari.</q>
+               <p>Take <hi>courage</hi> from the <hi>King</hi> who giveth <hi>Laws</hi> unto the <hi>Seas;</hi> and in the same Book in the Contemplation of so great a Power, he con<g ref="char:EOLhyphen"/>cludeth,
+<q>Finis hic est, qui fine caret, <hi>&amp;c.</hi>
+                  </q> This is an <hi>End</hi> beyond an <hi>End,</hi> a <hi>Bound</hi> that knows no <hi>Bounds,</hi> which even the <hi>Wind</hi> and the <hi>Waves</hi> must <hi>submit</hi> unto.</p>
+               <p>Again in his Annals<note n="(o)" place="bottom">L. 2. <hi>A</hi>
+                     <seg rend="sup">o</seg> 1570.</note>
+                  <hi>Grotius</hi> says,
+<q>Angliae Regina Oceani Imperium.</q> That the <hi>Queen</hi> of <hi>England</hi> was <hi>Dominatrix</hi> of the <hi>Sea.</hi>
+               </p>
+               <p>And if you remember <hi>King <hi>Iames</hi>
+                  </hi> taking notice of your <hi>daily</hi> Encroachments, enjoyned his Ambassador, Sir <hi>Dudley Carleton,</hi> to Expo<g ref="char:EOLhyphen"/>stulate it with your <hi>States,</hi> as may be seen in Mr. <hi>Secretaries</hi> Letter<note n="(p)" place="bottom">21 <hi>Dec.</hi> 1618.</note> wherein he tells them, <q>That unless they sought leave from his Majesty,
+<pb n="7" facs="tcp:39082:8"/> and acknowledged his Right, <hi>as other Princes had done,</hi> (and did) it might well come to pass, that they who would needs bear all the World be<g ref="char:EOLhyphen"/>fore them by their <hi>Mare Liberum,</hi> might soon en<g ref="char:EOLhyphen"/>danger their having neither <hi>Terram, nec Solum, nec Rempublicam liberam.</hi>
+                  </q> So much did that <hi>wise <hi>Prince</hi>
+                  </hi> disdain to be wrangled out of the ancient <hi>Rights</hi> and <hi>Regalities</hi> inherently <hi>annex<g ref="char:EOLhyphen"/>ed</hi> to his <hi>Crown,</hi> by the <hi>subtle Arguments</hi> of <hi>Wit</hi> and <hi>Sophistry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>What care I what King <hi>Iames</hi> did? <hi>I</hi> still say that the <hi>Sea</hi> is <hi>free</hi> for any Body to <hi>Fish</hi> in, and defy <hi>you</hi> to prove the con<g ref="char:EOLhyphen"/>trary.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>If the <hi>Sea</hi> be free, <hi>(as you say)</hi> Why do the <hi>Venetians</hi> Exe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cise <hi>Dominion</hi> in the <hi>Adriatique,</hi> and the <hi>Tuscans <hi>Lord</hi>
+                  </hi> it in the <hi>Tyrrhene <hi>Seas?</hi>
+                  </hi> Why do all <hi>your <hi>Schippers</hi>
+                  </hi> pay <hi>Toll</hi> to <hi>Denmark</hi> for <hi>passing</hi> the <hi>Sound,</hi> and to <hi>Swedeland</hi> for <hi>Sailing</hi> in the <hi>Baltick?</hi> Wherefore do the <hi>Republick</hi> of <hi>Genoa</hi> let to <hi>Farm</hi> the <hi>Fishery</hi> for <hi>Tunnies</hi> in their neigh<g ref="char:EOLhyphen"/>bouring <hi>Seas?</hi> How is't, that the <hi>Emperor</hi> of <hi>Russia</hi> compelleth all <hi>Fisher men</hi> within his <hi>Seas</hi> to pay him <hi>Tribute,</hi> and that the <hi>like</hi> is done by the <hi>Duke</hi> of <hi>Medina Sidonia</hi> in <hi>Spain,</hi> and by the <hi>Princes</hi> of <hi>Italy</hi> bordering on the <hi>Seas?</hi> Nay, why do the <hi>Dutch</hi> Stile themselves <hi>Lords</hi> of the <hi>Southern Seas,</hi>
+                  <pb n="8" facs="tcp:39082:9"/> and allow <hi>less</hi> Liberty in <hi>India</hi> then they take upon the <hi>English Coasts.</hi>
+               </p>
+               <p>But to Wave this Dispute, pray Sir, how many <hi>Labourers</hi> have <hi>you</hi> in <hi>your <hi>Golden Mines</hi>
+                  </hi> as <hi>you</hi> call them.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Upon taking an account of the seve<g ref="char:EOLhyphen"/>ral <hi>Trades</hi> and <hi>Employments</hi> by which the <hi>Dutch</hi> subsisted <hi>(in order to find which best de<g ref="char:EOLhyphen"/>served the Protection and Encouragement of the Publick)</hi> it appeared that in <hi>A</hi>
+                  <seg rend="sup">o</seg> 1668. the <hi>Sub<g ref="char:EOLhyphen"/>jects</hi> of the <hi>States General</hi> were<note n="(q)" place="bottom">
+                     <hi>Pol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n.</hi> &amp; Maxims. Van <hi>Holl.</hi> pag. 43.</note>
+                  <hi>Two Millions four hundred thousand Souls;</hi> of which, (besides those employed in the <hi>Inland-<hi>Fishery</hi>) Four hundred and fifty thousand</hi> were then main<g ref="char:EOLhyphen"/>tained by <hi>Fishing</hi> at <hi>Sea,</hi> and the <hi>Trafick</hi> de<g ref="char:EOLhyphen"/>pending thereon, since which time we have much <hi>encreased</hi> the numbers of our Fishing Busses and Doggers, to the great Encourage<g ref="char:EOLhyphen"/>ment of our Navigation, and the <hi>Thirty four</hi> Trades depending on the Fishery.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Which are they?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>
+                  <hi>Anchor smiths, Bakers, Ballast-men, Basket-makers, Black-smiths, Brewers, Butchers, Car<g ref="char:EOLhyphen"/>penters, Caulkers, Clapboard Splitters, Compass-makers, Coopers, Duck-Weavers Hemp Dressers, Hook-makers, Hoop splitters, Joyners, Line-makers, Mar<g ref="char:EOLhyphen"/>riners, Mast-makers, Net makers, Net-Tanners, Plummers, Pully-makers, Pump-makers, Rope-makers,
+<pb n="9" facs="tcp:39082:9"/> Sail-makers, Sawyers, Ship-Chandlers, Ship-wrights, Tallow Chandlers, Thread and Twine-Spinners,</hi> &amp;c. to the no small Encouragement of the <hi>Makers</hi> and <hi>Venders</hi> of all <hi>Materials, Tools</hi> and <hi>Utensils,</hi> belonging to any of the above <hi>Trades,</hi> to which might be added Ma<g ref="char:EOLhyphen"/>kers and Sellers of <hi>Culinary-wares, Bedding, Cloathing,</hi> &amp;c. for <hi>Sailors,</hi> also <hi>Packers, Tollers, Dressers</hi> and <hi>Couchers,</hi> to sort and make the <hi>Herring</hi> lawful Merchandize; all which still Encourage the <hi>Farmer</hi> by a continual Con<g ref="char:EOLhyphen"/>sumption of the Product of the <hi>Earth.</hi> In short, our <hi>Fishery</hi> affords <hi>us</hi> as universal Em<g ref="char:EOLhyphen"/>ployment in <hi>Holland,</hi> as the <hi>Woollen Manu<g ref="char:EOLhyphen"/>facture</hi> occasions in <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Pray where, and at what times of the Year do <hi>you <hi>Fish</hi>
+                  </hi> upon our <hi>Coasts.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>In the beginning of <hi>June</hi> the <hi>Herrings</hi> rising about two Leagues off <hi>Crane-Head, <hi>(the outermost part of Bratio Sound)</hi>
+                  </hi> stay <hi>there</hi> about fourteen days, thence go to <hi>Farry-Island, <hi>(Seven Leagues to the Southward of Shetland)</hi>
+                  </hi> round which <hi>they</hi> remain <hi>One and Twenty</hi> days, thence to <hi>Buffinness</hi> (about <hi>Thirty Leagues to the Southward of Farry Island</hi>) the <hi>Fishing</hi> place is called <hi>Buffin deeps,</hi> and is <hi>Twenty</hi> Leagues to the <hi>Northward</hi> of the <hi>Frith,</hi> where the <hi>Herring</hi> abide about <hi>four<g ref="char:EOLhyphen"/>teen</hi> days, and in the Fishing Ground under <hi>Chivit-hilts</hi> and <hi>Chivit-Chace,</hi> about <hi>Fourteen</hi>
+                  <pb n="10" facs="tcp:39082:10"/> days; thence we follow them to the <hi>Dogger-Bank,</hi> where they stay about <hi>Thirty seven</hi> days, and about the beginning of <hi>September</hi> they come into <hi>Yarmouth-Seas,</hi> where they continue about <hi>Seventy</hi> days, from whence they fall to the <hi>Southward,</hi> followed by small <hi>Fisher-boats,</hi> it being dangerous for <hi>Busses.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>What quantities of <hi>Fish</hi> are <hi>yearly</hi> taken by the <hi>Dutch?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>About<note n="(r)" place="bottom">L.V. Aitzma A<seg rend="sup">o</seg> 1653.</note>
+                  <hi>Three hundred thousand Lasts.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>This confirms Sir <hi>Walter Raleigh</hi>'s Obser<g ref="char:EOLhyphen"/>vations presented to <hi>King <hi>Iames,</hi>
+                  </hi>
+                  <note n="(s)" place="bottom">A<seg rend="sup">o</seg> 1633.</note> and shews, that the Learned Sir <hi>John Burroughs,</hi> in his <hi>Sovereignty</hi> of the <hi>Brittish Seas,</hi> up<g ref="char:EOLhyphen"/>on good grounds affirmed, that the <hi>Fish</hi> year<g ref="char:EOLhyphen"/>ly taken by <hi>Strangers</hi> upon <hi>our</hi> Coasts, did amount to<note n="(t)" place="bottom">Page 140.</note> above <hi>Ten Millions of Pounds</hi> Sterling.</p>
+               <p>But pray Sir, where have <hi>you vent</hi> for all your <hi>Fish</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>At <hi>Artois, Brabant, Bremen, Cleveland, Cologne, Dantzig, Denmark, Elbin, Embden, Flanders, France, Frankfort, Germany, Gulick<g ref="char:EOLhyphen"/>land, Hamburgh, Henault, Holsteine, Italy, Lief<g ref="char:EOLhyphen"/>land, Lithuania, Lubeck, Nerva, Norway, Poland, Pomerland, Portugal, Prussia, Quinsbrough, Revel, Riga, Russia, Spain, Stade, Stratten, Sweedland,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:39082:10"/>
+               <speaker>E.</speaker>
+               <p>Are you never afraid of <hi>over stocking</hi> the <hi>Marts?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>No certainly, or <hi>we</hi> should not <hi>yearly</hi> so much <hi>Encrease</hi> the number of our <hi>Doggers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>What Returns are made for your <hi>Fish?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>
+                  <hi>Allum, Armour, Baratees,</hi> and other <hi>Frank<g ref="char:EOLhyphen"/>fort</hi> Commodities; <hi>Brandy, Bullion, Clapboard, Coin, Copper, Corn, Currants,</hi> and other Groce<g ref="char:EOLhyphen"/>ry Wares, <hi>Damasks, Deal-boards, Dollars, Flax, Fruit, Furrs, Fustins, Glass, Hemp, Honey, Hul<g ref="char:EOLhyphen"/>sop, Iron, Lace, Linnen, Milstones, Oyl, Pitch, Plate, Pot-Ash, Prunes, Rashes, Rosin, Sarcenets, Sattins, Silks, Skins, Steel, Tapstrey, Tar, Tim<g ref="char:EOLhyphen"/>ber, Velvets, Wainscots, Wax, Wines,</hi> and other things in abundance, the <hi>Exporting</hi> of which Commodities again to <hi>other</hi> Countries, gives full <hi>Employment</hi> to our <hi>Ships,</hi> so that <hi>they</hi> need not go in <hi>Ballast</hi> to seek <hi>Fraight,</hi> but by the <hi>Profit</hi> of our Outward bound <hi>Voyages</hi> are ena<g ref="char:EOLhyphen"/>bled to serve <hi>Foreigners</hi> so cheap, as to render us the common <hi>Carriers</hi> of the <hi>World,</hi> conse<g ref="char:EOLhyphen"/>quently <hi>masters</hi> of the most certain <hi>Profit</hi> in <hi>Trade;</hi> for when <hi>Ships</hi> arrive <hi>safe</hi> in Harbour, tho' <hi>Merchants</hi> happen to <hi>lose</hi> by their <hi>Goods,</hi> yet <hi>Sea-men</hi> are paid their <hi>full</hi> Wages, <hi>&amp;c.</hi>
+               </p>
+               <p>Besides, by continual <hi>Bartering</hi> of such <hi>Ex<g ref="char:EOLhyphen"/>ports, <hi>Holland</hi>
+                  </hi> is rendred the mighty <hi>Store<g ref="char:EOLhyphen"/>house</hi> and <hi>Empory</hi> of all Foreign <hi>Products</hi> and <hi>Manufactures,</hi> from whose infinite Miscellany
+<pb n="12" facs="tcp:39082:11"/> of Goods, its <hi>Inhabitants</hi> are compleatly fur<g ref="char:EOLhyphen"/>nished with such sortable <hi>Wares,</hi> as enables them to <hi>Trade</hi> from <hi>Port</hi> to <hi>Port,</hi> without dan<g ref="char:EOLhyphen"/>ger of <hi>Glutting</hi> Markets.</p>
+               <p>And thus as our <hi>Fishery</hi> hath encreased our <hi>Trade</hi> and <hi>Navigation,</hi> constant Employment hath still ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>Foreigners</hi> flock to <hi>us</hi> in such numbers, that out of our Multitudes, sup<g ref="char:EOLhyphen"/>plying <hi>(from time to time)</hi> the loss of so many lives, as the Change of Climates, Successes a<g ref="char:EOLhyphen"/>gainst the <hi>Portuguezes,</hi> and Victories against the <hi>Indians</hi> have cost us. <hi>We</hi> have <hi>forced</hi> Trea<g ref="char:EOLhyphen"/>ties of Commerce <hi>exclusive</hi> to all other <hi>Nati<g ref="char:EOLhyphen"/>ons,</hi> built <hi>Forts</hi> upon <hi>Straits</hi> and <hi>Passes,</hi> that command the <hi>Entrances</hi> into places of <hi>great</hi> Traf<g ref="char:EOLhyphen"/>fick, Monopolized all the <hi>Spice</hi> Trade, and mightily advanced towards <hi>Engrossing</hi> the <hi>whole</hi> Commerce of the <hi>East-Indies.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Well may <hi>you</hi> boast that <hi>Amsterdam</hi> is founded upon <hi>Herring</hi> Bones; and no won<g ref="char:EOLhyphen"/>der, that notwithstanding your so <hi>frequent</hi> and so <hi>chargeable <hi>Wars,</hi>
+                  </hi> ever since your <hi>Revolt</hi> from <hi>Spain, <hi>(tho' at the end of each Dance you have generally paid for the Musick)</hi>
+                  </hi> yet there is hardly a <hi>Beggar</hi> in <hi>your</hi> Streets.</p>
+               <p>But if in <hi>Holland,</hi> which contains not above <hi>Five Millions of Acres,</hi> its Bogs and Sandy Downs included.</p>
+               <p>
+                  <hi>Holland,</hi> where you have no <hi>Minerals,</hi> and where it is in vain to <hi>dig</hi> for any thing but <hi>Turf</hi> and <hi>Clay.</hi>
+               </p>
+               <pb n="13" facs="tcp:39082:11"/>
+               <p>
+                  <hi>Holland,</hi> where you have no Tree but what you planted, nor <hi>Stone</hi> but what you brought thither.</p>
+               <p>
+                  <hi>Holland</hi> so much lower than the <hi>Ebbings</hi> of the <hi>Tides</hi> and <hi>Rivers,</hi> that at vast Expence <hi>you</hi> are obliged with <hi>Mills</hi> to Drain the very <hi>Floods</hi> occasioned by <hi>Rain.</hi>
+               </p>
+               <p>
+                  <hi>Holland,</hi> where notwithstanding <hi>your</hi> conti<g ref="char:EOLhyphen"/>nual charge <hi>(as was said)</hi> in repairing <hi>Banks</hi> and <hi>Dykes,</hi> frequent <hi>Inundations</hi> destroy <hi>Man</hi> and <hi>Beast</hi> for several Miles together, and then <hi>vast</hi> Sums <hi>(and whole Years)</hi> are spent, e're the <hi>Land</hi> can be regained.</p>
+               <p>
+                  <hi>Holland</hi> whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>(the East Winds coming to you o're a mighty length of dry Continent)</hi> extream <hi>cold</hi> and <hi>long</hi> Winters put you to the <hi>Expence</hi> of much <hi>Fire, Candles, Food</hi> and <hi>Raiment,</hi> and so great <hi>charge</hi> and <hi>pains</hi> in <hi>Housing</hi> and <hi>Foddering</hi> your Cattle, all which time <hi>(living on dry Food)</hi> they yield little <hi>Milk.</hi>
+               </p>
+               <p>
+                  <hi>Holland</hi> so exposed to <hi>black</hi> Winds, that <hi>blast</hi> the <hi>Blossoms</hi> of its <hi>Trees,</hi> and <hi>storms</hi> that <hi>shatter</hi> off <hi>(e're ripe)</hi> their <hi>Fruit.</hi>
+               </p>
+               <p>
+                  <hi>Holland</hi> where that little <hi>Arrable</hi> Land you have <hi>(lying generally on Sand and Clay)</hi> bottoms, requireth much <hi>Soile;</hi> and where <hi>seed time</hi> is so short, that unless it be exactly <hi>nicked,</hi> no Profit can be <hi>reaped;</hi> for when the <hi>seed</hi> rots in the ground <hi>(as by great Rains it frequently happeneth)</hi> the <hi>season</hi> is generally past before <hi>it</hi> can be <hi>sown</hi> again.</p>
+               <pb n="14" facs="tcp:39082:12"/>
+               <p>
+                  <hi>Holland,</hi> whose whole <hi>Product</hi> is scarce suffi<g ref="char:EOLhyphen"/>cient to serve<note n="(u)" place="bottom">Pol. Gron. &amp; Maxims van Holl. <hi>pag.</hi> 44.</note>
+                  <hi>One Eighth part of its Inhabi<g ref="char:EOLhyphen"/>tants,</hi> consequently the rest are obliged to <hi>pur<g ref="char:EOLhyphen"/>chase</hi> the so necessary Commodities <hi>Food</hi> and <hi>Raiment,</hi> of neighbouring <hi>Countries,</hi> at the rates they can get them.</p>
+               <p>
+                  <hi>Holland,</hi> whole <hi>Territories</hi> extend upon <hi>pow<g ref="char:EOLhyphen"/>erful</hi> Neighbours, so that to defend its <hi>Frontiers,</hi> and draw out a <hi>War</hi> in length, by <hi>Sieges,</hi> in order to determine it by force of <hi>Money</hi> rather than of <hi>Arms,</hi> you are obliged to be at <hi>vast</hi> Expence in <hi>Fortifications</hi> and <hi>Standing Troops</hi> to defend them, even in the time of the profoun<g ref="char:EOLhyphen"/>dest <hi>Peace:</hi> For Instance, A<seg rend="sup">o</seg> 1670. <hi>(after all Reforms)</hi> you had <hi>Ten</hi> Regiments of <hi>Horse,</hi> and <hi>Nineteen</hi> of <hi>Foot,</hi> making together <hi>Twenty Six thousand two hundred</hi> Men, the constant charge of which Forces was 556281 <hi>l. Sterling, per Ann.</hi>
+               </p>
+               <p>I say, if in <hi>Holland</hi> naturally loaded with these Misfortunes, and all their innumerable <hi>ill</hi> Consequences; which, together with its unwholsome <hi>Air,</hi> and many other disadvanta<g ref="char:EOLhyphen"/>ges, renders <hi>it</hi> unworthy to be <hi>Cultivated,</hi> or indeed <hi>inhabited</hi> by Mankind. Notwithstand<g ref="char:EOLhyphen"/>ing you are<note n="(w)" place="bottom">Sir <hi>Will. Temple</hi>'s Observ. on the Ʋnited Provinces.</note>
+                  <hi>Bridled with hard Laws,</hi>
+                  <q>Terri<g ref="char:EOLhyphen"/>fied with severe Executions, Environed with
+<pb n="15" facs="tcp:39082:12"/> Foreign Forces, and oppressed with the most cruel Hardships, and variety of Taxes, that was ever known under any Government:</q> Yet the <hi>People</hi> are grown <hi>so</hi> numerous, and <hi>so</hi> wealthy, by <hi>Fishing</hi> upon <hi>our</hi> Northern <hi>Coasts.</hi>
+               </p>
+               <p>Did we in <hi>England</hi> diligently apply <hi>our</hi> selves to the <hi>Fishing</hi> Trade, What a prodigi<g ref="char:EOLhyphen"/>ous Advantage might <hi>we</hi> reap, considering the <hi>Fishing</hi> for <hi>Cod, Conger, Hake, Herrings, Ling, Mackerel, Oister, Pilchards, Salmon, Scate, Soles, Sprats, Thornback, Turbets, Whitings,</hi> &amp;c. (whilst in Season) are upon <hi>our <hi>Coasts</hi>
+                  </hi> all the Year long.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Just so much Advantage as the <hi>Ham<g ref="char:EOLhyphen"/>burghers</hi> did, who <hi>(after five or six years trial to imitate us in the Herring <hi>Fishery</hi>)</hi> found to their <hi>Cost, we</hi> still out-did <hi>them,</hi> and so <hi>we</hi> shall <hi>you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>The reason why <hi>you</hi> out did the <hi>Ham<g ref="char:EOLhyphen"/>burghers,</hi> was because they were yearly <hi>Frozen</hi> up<note n="x" place="bottom">Lex Mercat. <hi>fol.</hi> 171.</note> somewhat longer than <hi>you;</hi> but seeing by that <hi>Start</hi> you could out-strip them, surely the <hi>English</hi> need not fear the <hi>Goale,</hi> who <hi>(besides what has been said)</hi> have in <hi>Fishing</hi> many more advantages of <hi>you,</hi> than ever <hi>you</hi> had of the <hi>Hamburghers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>
+                  <hi>Ha! ha! ha!</hi> The generality of <hi>your</hi> Country men know better.</p>
+            </sp>
+            <sp>
+               <pb n="16" facs="tcp:39082:13"/>
+               <speaker>E.</speaker>
+               <p>I am not Ignorant what <hi>Industry</hi> has been used to <hi>poyson my Countrymen</hi> with an Opinion, that none but <hi>Dutch</hi> can thrive by <hi>Fishing;</hi> But <hi>such</hi> as Examine the Matter, will find that the <hi>Dutch</hi> have above a <hi>hundred</hi> Leagues to Sail, before they come to the <hi>Herring Fishery <hi>(which is only in the British Seas)</hi>
+                  </hi> and when <hi>there,</hi> must lie at the <hi>Mercy</hi> of the <hi>Winds,</hi> for want of a <hi>Port</hi> to <hi>Friend,</hi> and in case of <hi>unloading,</hi> have as far <hi>back</hi> again, which takes up a <hi>great</hi> deal of <hi>time, hinders</hi> Business, and end<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngers the <hi>loss</hi> of <hi>their</hi> Markets. <hi>Whereas</hi> in <hi>England we</hi> have the <hi>Fish</hi> upon our <hi>own</hi> Coasts; so near <hi>our</hi> Shores, that in case of <hi>Storms, Un<g ref="char:EOLhyphen"/>loading,</hi> taking in of <hi>Provisions,</hi> or the like, it is but <hi>four</hi> or <hi>five</hi> hours Work <hi>(commonly not so much)</hi> to Recover an Harbour, and without <hi>loss</hi> of time to put to <hi>Sea</hi> again, the work of <hi>Unloading, Re-packing,</hi> and sending our <hi>Fish</hi> to Market, still going on in <hi>all</hi> Wea<g ref="char:EOLhyphen"/>thers.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>And have not <hi>we <hi>Dogger-Boats</hi>
+                  </hi> to take <hi>off</hi> our <hi>Fish</hi> at <hi>Sea,</hi> and <hi>Refurnish</hi> the <hi>Fisher<g ref="char:EOLhyphen"/>men</hi> with <hi>Cask</hi> and <hi>other</hi> Necessaries?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Yes Sir; and you have the <hi>charge</hi> and <hi>risk</hi> of those <hi>Dogger-Boats</hi> too <hi>(both which the English save)</hi> yet if it happen to be a rowl<g ref="char:EOLhyphen"/>ing <hi>Sea, <hi>you</hi>
+                  </hi> must lye by, and <hi>wait</hi> for a <hi>Calm.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:39082:13"/>
+               <speaker>D.</speaker>
+               <p>What other Advantages have you of <hi>us?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>
+                  <hi>England</hi> hath many convenient <hi>Tide<g ref="char:EOLhyphen"/>haven</hi>-Ports, as at <hi>Hull, Harwich,</hi> and <hi>Holy-Island</hi> to the <hi>Northward,</hi> and <hi>Dover, Rye, Portsmouth, Southampton, Cowes, Weymouth, Dartmouth, Catwater, Hamose, Fowey, Falmouth, Hilford, Scilly,</hi> and <hi>Milford, Westward,</hi> where at <hi>low</hi> Water, <hi>all</hi> of <hi>them</hi> are small <hi>Chingle,</hi> or <hi>hard Sand;</hi> so that our <hi>Vessels</hi> may easily haul <hi>ashore,</hi> and <hi>wash</hi> and <hi>Tallow</hi> at pleasure; nor are <hi>Creeks</hi> and <hi>Commodious</hi> places wanting in <hi>England,</hi> to lodge our <hi>Busses</hi> and <hi>Dog<g ref="char:EOLhyphen"/>gers</hi> safe, when not Employed; so as to pre<g ref="char:EOLhyphen"/>vent wear of <hi>Cables,</hi> charge of <hi>Watching,</hi> dan<g ref="char:EOLhyphen"/>ger of <hi>Fire,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>What else!</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>The Shores of <hi>England</hi> are <hi>Bold,</hi> the <hi>Coasts</hi> high, <hi>Land</hi> easily discovered, several of our <hi>Cape</hi> Lands, opposite to <hi>France</hi> and <hi>Holland,</hi> make <hi>Eddy Bays,</hi> whose depth of <hi>Water</hi> is mean, as <hi>six, eight, ten</hi> or <hi>twelve Fathom;</hi> the <hi>Tides <hi>(on our own Coasts)</hi>
+                  </hi> are small <hi>Anchor<g ref="char:EOLhyphen"/>hold,</hi> generally stiff <hi>Clay, Chalk,</hi> or hard <hi>Gra<g ref="char:EOLhyphen"/>vel;</hi> so that we need not dread <hi>Winter Storms,</hi> besides the advantage we have of lying in a <hi>moderate</hi> Climate, and in the very <hi>Centre</hi> of the <hi>Trade</hi> of <hi>Europe,</hi> affords <hi>us</hi> opportunity of send<g ref="char:EOLhyphen"/>ing to <hi>Foreign</hi> Parts from divers of our <hi>Ports,</hi> at all <hi>Seasons</hi> of the <hi>Year;</hi> Whereas the <hi>Coasts</hi>
+                  <pb n="18" facs="tcp:39082:14"/> of <hi>Holland</hi> are extreamly <hi>low,</hi> subject to be <hi>hazy</hi> and <hi>foggy,</hi> have many <hi>Shoales</hi> and <hi>Sands,</hi> some of which <hi>lie</hi> so far off at <hi>Sea,</hi> that fre<g ref="char:EOLhyphen"/>quently <hi>Ships</hi> are <hi>Stranded</hi> before they <hi>see</hi> Land; its <hi>Ports</hi> are <hi>bad</hi> and often <hi>choaked</hi> up with <hi>quick<g ref="char:EOLhyphen"/>sands.</hi> Its <hi>Havens</hi> yearly <hi>Frozen</hi> up <hi>two</hi> or <hi>three</hi> Months together: And a North West Wind <hi>(usually blowing the greatest part of the Year)</hi> makes <hi>Holland</hi> a <hi>Lee,</hi> and <hi>England</hi> a <hi>Weather-<hi>Shore;</hi>
+                  </hi> So that many times whilst <hi>you</hi> are <hi>Wind-bound,</hi> or <hi>Frozen</hi> up at <hi>Home, <hi>we</hi>
+                  </hi> can supply the <hi>Markets</hi> abroad.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Well, but the <hi>defects</hi> of our <hi>Coasts,</hi> and all the <hi>Difficulties <hi>our</hi>
+                  </hi> Country labours under, are sufficiently made up by the <hi>great</hi> Gate, and <hi>prudent</hi> Conduct of our <hi>Magistrates,</hi> who Court <hi>Trade,</hi> as a <hi>Rich</hi> Mistress; and spare neither <hi>Charge</hi> nor <hi>Pains</hi> to attain <hi>her.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>As how I pray <hi>Sir?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>By Tolerating <hi>Liberty</hi> of <hi>Conscience,</hi> and granting <hi>Freedoms</hi> of <hi>Cities</hi> for <hi>little</hi> or <hi>no</hi> Charge; whereby <hi>all</hi> such as are Prosecuted for <hi>Religion,</hi> or through <hi>discontent</hi> leave their <hi>Native</hi> Countries, are <hi>invited</hi> and <hi>incouraged</hi> to come and <hi>settle</hi> with <hi>us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>What Advantage do you reap from such Guests?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Encrease of <hi>Trade, Riches</hi> and <hi>Strength.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>How do you make that out?</p>
+            </sp>
+            <sp>
+               <pb n="19" facs="tcp:39082:14"/>
+               <speaker>D.</speaker>
+               <p>Foreign <hi>Gentry</hi> bringing their <hi>Estates</hi> with them, <hi>encrease</hi> our <hi>Wealth.</hi>
+               </p>
+               <p>Foreign <hi>Merchants</hi> discover to us <hi>new</hi> Myste<g ref="char:EOLhyphen"/>ries in <hi>Commerce,</hi> and <hi>enlarge</hi> our <hi>Traffick.</hi>
+               </p>
+               <p>Foreign <hi>Mechanicks</hi> daily <hi>Improve</hi> and <hi>augment</hi> our <hi>Manufactures,</hi> and have taught <hi>us</hi> so many <hi>several</hi> sorts of <hi>Trades,</hi> and <hi>useful</hi> Engines and <hi>Inventions</hi> for dispatching Work.</p>
+               <p>It was a <hi>Cornish Miner,</hi>
+                  <note n="(y)" place="bottom">
+                     <hi>Heylin</hi>'s Geography.</note> That Discovered the <hi>Tin</hi> Mines in <hi>Saxony, Violet,</hi> and <hi>Stevens;</hi>
+                  <note n="(z)" place="bottom">
+                     <hi>Lex Mercat. 169.</hi> and the Tombstones of said <hi>Violet</hi> and <hi>Stevens,</hi> at <hi>Enckhuysen,</hi> till demolished in the first Dutch Wars, by the Rabble.</note> Two discontented <hi>English</hi> Fishmongers set<g ref="char:EOLhyphen"/>ling at <hi>Enckhuysen</hi> in <hi>Holland,</hi> first taught <hi>us</hi> to make <hi>deep Sea Nets,</hi> and <hi>Fish</hi> upon the <hi>Brittish Coasts.</hi> And indeed few <hi>People</hi> venture to Travel, who are not <hi>Masters</hi> of some ex<g ref="char:EOLhyphen"/>cellent <hi>Arts</hi> or <hi>Sciences.</hi> But put chance any <hi>Poor</hi> visited <hi>us,</hi> who had no <hi>Trades</hi> in their Bel<g ref="char:EOLhyphen"/>lies; if <hi>they</hi> will not serve us for <hi>Soldiers,</hi> yet they'll serve to make <hi>Bricks,</hi> dig <hi>Turff,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Granting all this, if towards encoura<g ref="char:EOLhyphen"/>ging a National Fishery in <hi>England,</hi> our Par<g ref="char:EOLhyphen"/>liament should think fit to allow <hi>Foreign</hi> Pro<g ref="char:EOLhyphen"/>testants <hi>(following the Business of the Fishing Trade)</hi> the like Priviledges with <hi>Natives (only in Sea Coast Towns)</hi> your boasted advantage would soon vanish, and such Foreign <hi>Prote<g ref="char:EOLhyphen"/>stants</hi>
+                  <pb n="20" facs="tcp:39082:15"/> would as certainly make our <hi>Fifty two</hi> de<g ref="char:EOLhyphen"/>cayed <hi>Fishing</hi> Towns <hi>flourish,</hi> as the <hi>Wal<g ref="char:EOLhyphen"/>loone</hi> and <hi>Burgundian</hi> Refugees planted by <hi>Queen Elizabeth,</hi>
+                  <note n="(a)" place="bottom">
+                     <hi>Anno</hi> 1568.</note> at <hi>Norwich, Canter<g ref="char:EOLhyphen"/>bury,</hi> and <hi>Colchester,</hi> raised them <hi>(then so poor Cities)</hi> to such great <hi>Trade, Riches,</hi> and <hi>Plenty.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>But to return to your former Discourse; What other advantages have the <hi>English</hi> of the <hi>Dutch,</hi> in <hi>Fishing?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Near the Pile of <hi>Foudray</hi> in <hi>Lancashire,</hi> and in several other places along the Shores of <hi>Wales,</hi> we can <hi>Fish</hi> without the charge of <hi>Busses;</hi> for by only setting <hi>Nets</hi> on the <hi>Sands</hi> at Low Waters, great quantities of <hi>Herrings</hi> are taken next <hi>Tide</hi> of Ebb.</p>
+               <p>Again; the Coasts of <hi>Wales</hi> abound with <hi>Ash,</hi> which excels all <hi>Wood</hi> for drying <hi>Herrings,</hi> as far as its <hi>Bark</hi> doth <hi>all others</hi> for Tanning <hi>Nets;</hi> nor do we in <hi>England <hi>(as you)</hi>
+                  </hi> want <hi>Willow Hoops</hi> from <hi>Hamburgh.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Those <hi>Herrings</hi> on the Coast of <hi>Lan<g ref="char:EOLhyphen"/>cashire (coming newly out of the Ocean)</hi> are so <hi>fat</hi> they will not take <hi>Salt,</hi> consequently are apt to reast.</p>
+            </sp>
+            <sp>
+               <pb n="21" facs="tcp:39082:15"/>
+               <speaker>E.</speaker>
+               <p>
+                  <hi>Pilchards <hi>(which so constantly visit our Coast of</hi>
+                  </hi> Cornwall) are also so <hi>fat</hi> they will not take <hi>Salt</hi> till <hi>pressed;</hi> when to the great En<g ref="char:EOLhyphen"/>couragement of <hi>Shipwrights, Curriers, Soap-boilers,</hi> &amp;c. they yield <hi>store</hi> of <hi>Oyl,</hi> and after<g ref="char:EOLhyphen"/>wards take <hi>Salt</hi> kindly. Now if we cure <hi>fat Herrings</hi> after the same manner, they'll produce double Profit.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>How chance this Method was not found out sooner?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>
+                  <hi>Dies Diem docet,</hi> those noble <hi>Salt-Rocks</hi> in <hi>Cheshire (sufficient to supply all</hi> Europe) have not been many Years discovered.</p>
+               <p>Again, of a <hi>Stone</hi> abounding in <hi>Shropshire,</hi> much <hi>Pitch</hi> is now made, of so excellent a Nature, <hi>Heat</hi> only causeth it to <hi>penetrate</hi> deep<g ref="char:EOLhyphen"/>er into <hi>Plank,</hi> and <hi>Cold</hi> cannot make it <hi>crackle</hi> off, the which, and our great Draw back upon Exporting Fish, are Advantages <hi>Holland</hi> wanteth.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>What more?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>You cannot share with us in the <hi>Red-Herring</hi> and <hi>Pilchard <hi>Trade,</hi>
+                  </hi> not only for <hi>want</hi> of <hi>Wood</hi> at <hi>reasonable</hi> Rates; but because <hi>those</hi> cannot be well cured, unless brought <hi>fresh</hi> on <hi>Shore;</hi> and being taken on <hi>our <hi>Coasts,</hi>
+                  </hi> they'll be too stale before they arrive at <hi>yours:</hi> And not to mention our <hi>Rich <hi>New-England Fishery,</hi>
+                  </hi> our <hi>Western Ports</hi> are incomparably <hi>scituated</hi> for the <hi>Newfound-land Fishing;</hi> and the
+<pb n="22" facs="tcp:39082:16"/> Country it self belonging to the <hi>Crown</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> you can have no footing there.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Notwithstanding all the <hi>Advantages</hi> you speak of, <hi>your</hi> chief <hi>Fishing <hi>Towns,</hi> Yar<g ref="char:EOLhyphen"/>mouth</hi> and <hi>Laystoffe</hi> are beholden either to <hi>us</hi> at <hi>Enckhuysen,</hi> or to the <hi>French</hi> at <hi>Diep,</hi> for Selling them <hi>Nets.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Before the late <hi>War</hi> they used to buy <hi>Sail-Cloath</hi> of <hi>you</hi> too; but that now made at <hi>Fulham,</hi> &amp;c. is brought to <hi>equal</hi> Perfection with your best <hi>Holland's Duck:</hi> And as for <hi>Nets,</hi> the <hi>Towns you</hi> mention have these <hi>six Years (last past)</hi> made <hi>all</hi> they <hi>used;</hi> and who knows, but that our <hi>Artisans <hi>(universally al<g ref="char:EOLhyphen"/>lowed the best upon Earth for Improvements)</hi>
+                  </hi> may in a <hi>little</hi> time as much <hi>excel <hi>you</hi>
+                  </hi> in <hi>these</hi> things, as they <hi>out-do</hi> the <hi>Germans</hi> in fine <hi>Steel-Works;</hi> which though <hi>they</hi> first invented, yet we now <hi>make</hi> and <hi>sell</hi> to <hi>them.</hi> But seeing you talk of being <hi>beholden,</hi> I think <hi>you</hi> are <hi>beholden</hi> to <hi>us</hi> for selling you our <hi>Thames <hi>Lamprons,</hi>
+                  </hi> wherewith you <hi>bait</hi> for <hi>North-Sea-Cod,</hi> else you might go . . . . . <hi>whistle</hi> for them.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Well now, <hi>I</hi> hope <hi>you</hi> have <hi>told</hi> all <hi>your</hi> Advantages.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Excuse me, Sir, <hi>England</hi> affords <hi>Tim<g ref="char:EOLhyphen"/>ber, Iron,</hi> and <hi>Hemp,</hi> whereas <hi>you</hi> are for<g ref="char:EOLhyphen"/>ced to <hi>purchase</hi> those Commodities in <hi>Foreign</hi> Countries.</p>
+            </sp>
+            <sp>
+               <pb n="23" facs="tcp:39082:16"/>
+               <speaker>D.</speaker>
+               <p>Nevertheless <hi>those</hi> and <hi>our <hi>Naval Stores</hi>
+                  </hi> are return'd us in Exchange for only <hi>Herrings,</hi> which <hi>cost</hi> us <hi>little,</hi> but the <hi>trouble</hi> of <hi>hauling</hi> up out of the <hi>Sea;</hi> so that <hi>(reckoning the Employment of our Ships and Men)</hi> it condu<g ref="char:EOLhyphen"/>ceth more to <hi>our</hi> advantage, then if our Coun<g ref="char:EOLhyphen"/>try produced them: Whereas to purchase <hi>East-Country</hi> Wares, <hi>you</hi> are <hi>yearly</hi> forced to Export much of <hi>your <hi>Coin,</hi>
+                  </hi> to the great <hi>exhausting</hi> the <hi>Treasure</hi> of your <hi>Nation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>But if a <hi>National Fishery</hi> be <hi>establish<g ref="char:EOLhyphen"/>ed</hi> in <hi>England,</hi> what should hinder <hi>us</hi> from buying them with <hi>Herrings</hi> as well as <hi>you?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>
+                  <hi>Your</hi> white <hi>Herrings</hi> are not so <hi>bright</hi> and <hi>good</hi> as <hi>ours.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Whilst <hi>your <hi>Clapboard</hi>
+                  </hi> is floating from <hi>Germany,</hi> the <hi>Rhine</hi> draws out its <hi>Sap;</hi> and if <hi>we</hi> also <hi>soak</hi> the corrosive <hi>Sap</hi> out of <hi>our <hi>Clap-board,</hi>
+                  </hi> which now <hi>discolours</hi> and <hi>preys</hi> upon our <hi>Fish;</hi> and like <hi>you <hi>gip</hi>
+                  </hi> and <hi>Salt</hi> our <hi>Herrings,</hi> as soon as <hi>taken,</hi> they'll be every whit as <hi>bright</hi> and <hi>good</hi> as <hi>yours.</hi>
+               </p>
+               <p>After all, <hi>we</hi> do not as <hi>you</hi> depend <hi>solely</hi> upon the <hi>East Country</hi> for <hi>Naval Stores;</hi> no, in case of <hi>Exaction</hi> or <hi>Rupture, <hi>we</hi>
+                  </hi> can be supplied from <hi>our <hi>American Planta<g ref="char:EOLhyphen"/>tions,</hi>
+                  </hi> which so abound with <hi>Naval Stores, <hi>Ships</hi>
+                  </hi> may be <hi>there</hi> built near a <hi>fourth</hi> part <hi>cheap<g ref="char:EOLhyphen"/>er</hi> than in <hi>Europe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="24" facs="tcp:39082:17"/>
+               <speaker>D.</speaker>
+               <p>Now you talk of <hi>Building,</hi> Sir, <hi>we</hi> build cheaper in <hi>Holland</hi> then <hi>you</hi> do in <hi>England,</hi> and <hi>Sail</hi> our <hi>Vessels</hi> with <hi>fewer</hi> Hands.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>
+                  <hi>Our <hi>Ships</hi>
+                  </hi> are much <hi>stronger</hi> and <hi>abler</hi> to <hi>brook</hi> the <hi>Seas</hi> than <hi>yours,</hi> and will last <hi>twice</hi> as <hi>long;</hi> and as to <hi>your <hi>Sailing</hi>
+                  </hi> with <hi>fewer</hi> Hands, we <hi>envy</hi> not <hi>your</hi> Happiness whilst <hi>(in proportion to your Tunnage and Num<g ref="char:EOLhyphen"/>ber of Marriners) <hi>you</hi>
+                  </hi> yearly lose <hi>(by underman<g ref="char:EOLhyphen"/>ing) far</hi> more <hi>Ships</hi> and <hi>Mens Lives</hi> then <hi>we;</hi> for which Reason, in above <hi>three</hi> parts of the <hi>World, our <hi>Ships</hi>
+                  </hi> yield <hi>better</hi> Freight; where then <hi>lies</hi> the <hi>odds,</hi> which were there any, could be only in <hi>Merchantmen</hi> to <hi>carry</hi> our <hi>Fish</hi> to <hi>Mar<g ref="char:EOLhyphen"/>ket. Busses</hi> and <hi>Fisher-Boats,</hi> carry more Men to catch <hi>Fish,</hi> than are needful to <hi>Sail</hi> them: And in the <hi>Green-land Trade,</hi> each <hi>Ship</hi> must have <hi>three</hi> times the <hi>Crew</hi> that can <hi>Navigate</hi> her, to Man their <hi>Shallops</hi> when a <hi>Fishing,</hi> were not this true, since in <hi>Building <hi>English Ship<g ref="char:EOLhyphen"/>wrights</hi>
+                  </hi> know no <hi>Masters;</hi> surely <hi>we</hi> might easily cause <hi>our Ships</hi> to be <hi>Built</hi> and <hi>Manned</hi> after <hi>your</hi> mode.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>
+                  <hi>Fishing</hi> is a <hi>work</hi> for which the <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> are <hi>unfit,</hi> and requires such <hi>skilful, Indu<g ref="char:EOLhyphen"/>strious,</hi> and <hi>Robust <hi>Seamen,</hi>
+                  </hi> as no <hi>Country</hi> breeds but <hi>Holland.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>
+                  <hi>Your</hi> Learned <hi>Keckerman</hi> says, <hi>Omnibus ho<g ref="char:EOLhyphen"/>die Gentibus Navigandi Industriâ &amp; peritiâ superi<g ref="char:EOLhyphen"/>ores esse Anglos.</hi>
+               </p>
+               <pb n="25" facs="tcp:39082:17"/>
+               <p>'Tis certain <hi>our <hi>Marriners</hi>
+                  </hi> are as <hi>Bold</hi> in Danger, and do as <hi>Chearfully</hi> undergo <hi>Hard<g ref="char:EOLhyphen"/>ships</hi> as any others; and for hard <hi>Labour,</hi> the working of a <hi>Mine</hi> is incomparably beyond that of a <hi>Buss.</hi>
+               </p>
+               <p>None but the <hi>Great Britannia</hi> can <hi>boast,</hi> their <hi>Natives,</hi> after <hi>twelve</hi> Hours hard <hi>Work,</hi> will go in the <hi>Evening</hi> to <hi>Foot-ball, Stool-ball, Cricket, Prison-base, Wrestling, Cudgel-playing,</hi> or some such vehement <hi>Exercise</hi> for their <hi>Recreations;</hi> and as to their <hi>Genius,</hi> it's remarkable, that such <hi>Lads</hi> and <hi>Country Fellows,</hi> as at <hi>Yarmouth, Laystoffe,</hi> &amp;c. are once hired into the <hi>Fishing Trade,</hi> and come to feed on the <hi>Fish</hi> they <hi>Catch,</hi> it im<g ref="char:EOLhyphen"/>proves <hi>them</hi> at such a rate, that of <hi>pittiful Weak<g ref="char:EOLhyphen"/>lings</hi> at <hi>Land,</hi> they become <hi>healthful, stout,</hi> and <hi>hardy</hi> Persons; and upon <hi>Trial</hi> find <hi>it</hi> so much to their liking, that not <hi>one</hi> in <hi>twenty</hi> but takes to the <hi>Sea</hi> for good and all.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>
+                  <hi>Englishmen</hi> are dainty Chap't, and when a <hi>Fishing</hi> cannot <hi>Fare</hi> like <hi>ours.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>It is certain they <hi>need</hi> not, for <hi>Meat</hi> and <hi>Drink</hi> in <hi>Ireland,</hi> and in many parts of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> are above as <hi>cheap</hi> again as in <hi>Holland,</hi> which produceth no other Provisions <hi>(for Traf<g ref="char:EOLhyphen"/>fick)</hi> than <hi>Butter</hi> and <hi>Cheese,</hi> and those <hi>too</hi> are <hi>cheaper</hi> with <hi>us</hi> than with <hi>you.</hi> Besides 'tis ob<g ref="char:EOLhyphen"/>serv'd, that whatever the <hi>Dutch Fishermen</hi>
+                  <pb n="26" facs="tcp:39082:18"/> save by <hi>eating</hi> of <hi>Grout,</hi> they <hi>drink (more than ours)</hi> in <hi>Brandy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>
+                  <hi>Two thousand five hundred Persons</hi> are hard<g ref="char:EOLhyphen"/>ly able, in a <hi>whole</hi> Year, to make a <hi>Fleet</hi> of <hi>Nets</hi> for <hi>Five hundred Busses;</hi> now <hi>England</hi> hath many <hi>Wasts</hi> and unimproved <hi>Lands,</hi> which shews its not half Peopled; and of those <hi>you have</hi> in it, consider</p>
+               <p>How many <hi>Women</hi> and <hi>Children</hi> do just nothing, only learning to <hi>spend</hi> what others <hi>get.</hi>
+               </p>
+               <p>How many are <hi>meer Voluptuaries,</hi> and as it were <hi>Gamesters</hi> by <hi>Trade.</hi>
+               </p>
+               <p>How many live by <hi>puzling</hi> poor People with <hi>unintelligible</hi> Notions in . . . . . . <hi>Philosophy.</hi>
+               </p>
+               <p>How many by <hi>perswading <hi>Credulous, Delicate,</hi>
+                  </hi> and <hi>Litigious</hi> Persons, that their <hi>Bodies</hi> or <hi>Estates</hi> are <hi>out</hi> of <hi>Tune,</hi> and in <hi>danger.</hi>
+               </p>
+               <p>How many by <hi>Trades</hi> of meer <hi>Pleasure</hi> or <hi>Ornament.</hi>
+               </p>
+               <p>How many by <hi>Fighting,</hi> as <hi>Soldiers.</hi>
+               </p>
+               <p>How many by <hi>mysteries</hi> of <hi>Vice</hi> and <hi>Sin,</hi> or in a <hi>lazy</hi> way of <hi>Attendance</hi> upon others; where then can you <hi>hope</hi> to find <hi>Hands</hi> to carry on your <hi>Fishery.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>If a <hi>National Fishery</hi> be established in <hi>England,</hi> 'tis odds but a <hi>finer Country, cheaper</hi> and <hi>better Food, wholsomer Air, easier Rents,</hi> and <hi>less Hazard</hi> and
+<pb n="27" facs="tcp:39082:18"/>
+                  <hi>Taxes,</hi> will tempt many of <hi>your</hi> Country<g ref="char:EOLhyphen"/>men to cross the <hi>Herring</hi> Pond.</p>
+               <p>Again, of all <hi>Trades, <hi>Netting</hi>
+                  </hi> is one of the <hi>easiest</hi> to attain; and if a <hi>National Fish<g ref="char:EOLhyphen"/>ery</hi> be establishe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in <hi>England,</hi> our <hi>Gen<g ref="char:EOLhyphen"/>try,</hi> by causing their <hi>Footmen</hi> and <hi>Ser<g ref="char:EOLhyphen"/>vants</hi> to rise <hi>early,</hi> and <hi>employ</hi> their <hi>idle</hi> Hours in making <hi>Nets,</hi> may not only reap great <hi>Profit</hi> from their <hi>Work,</hi> but by <hi>accustoming</hi> them to <hi>Industry</hi> in their <hi>Youths,</hi> beget in <hi>them</hi> such <hi>Industrious Dispositions,</hi> as will prevent <hi>(what now too frequently happens)</hi> their becoming <hi>Beg<g ref="char:EOLhyphen"/>gars,</hi> or <hi>worse,</hi> in <hi>old Age.</hi>
+               </p>
+               <p>If a <hi>National Fishery</hi> be established in <hi>England,</hi> how <hi>comfortable</hi> will it be to <hi>all <hi>poor Prisoners, Widows,</hi>
+                  </hi> and <hi>Orphans,</hi> when <hi>they</hi> may get their <hi>Bread</hi> by a <hi>Work</hi> not more <hi>laborious</hi> than <hi>Play,</hi> yet never <hi>want</hi> Employment.</p>
+               <p>If a <hi>National Fishery</hi> be established in <hi>England,</hi> what an <hi>advantage</hi> will it prove to <hi>all <hi>poor Tradesmen, Artificers</hi>
+                  </hi> and <hi>Labourers,</hi> when <hi>they,</hi> their <hi>Wives, Children</hi> and <hi>Servants,</hi> may <hi>each</hi> vacant Interval be getting a <hi>Penny</hi> by <hi>braiding</hi> and <hi>beeting</hi> of <hi>Nets.</hi>
+               </p>
+               <p>If a <hi>National Fishery</hi> be established in <hi>England,</hi> the <hi>many</hi> Thousands <hi>English, Scotch,</hi> and <hi>Irish Marriners,</hi> who now <hi>yearly <hi>Fish</hi>
+                  </hi> for you, will not seek work <hi>abroad,</hi>
+                  <pb n="28" facs="tcp:39082:19"/> when they can <hi>find <hi>full Employment</hi>
+                  </hi> at <hi>Home.</hi>
+               </p>
+               <p>Besides too many <hi>Thousands</hi> of <hi>Disbanded <hi>Soldiers,</hi>
+                  </hi> and <hi>late <hi>Prisoners,</hi>
+                  </hi> Released by the <hi>Act</hi> (9 <hi>Gul.</hi> 3.) now want <hi>Employment,</hi> and the <hi>Streets</hi> of <hi>London,</hi> and many parts adja<g ref="char:EOLhyphen"/>cent, are <hi>throng'd</hi> with too many <hi>Beggars, <hi>(the major part of which, tho' in a nasty Conditi<g ref="char:EOLhyphen"/>on, seem to be young, strong, and healthful Per<g ref="char:EOLhyphen"/>sons)</hi>
+                  </hi> for <hi>us</hi> to want <hi>Hands</hi> for the <hi>Fish<g ref="char:EOLhyphen"/>ery.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Give me leave <hi>(by the way)</hi> to ask you, whence 'tis <hi>London <hi>swarms</hi>
+                  </hi> with so many <hi>Drones?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>
+                  <hi>Youths, Labourers, Artificers, Maid-Servants,</hi> and other <hi>Mean <hi>People's</hi>
+                  </hi> being <hi>suffered</hi> to leave the <hi>Country,</hi> and <hi>ramble</hi> up to <hi>London</hi> at pleasure.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Can you give me an Instance of what you assert?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>The very <hi>Servant-Maid,</hi> who per<g ref="char:EOLhyphen"/>haps in the <hi>Country</hi> was of excellent use in a <hi>Dairy</hi> at <hi>Spinning,</hi> or the like, having resolved on a Ramble to <hi>London,</hi> is easily perswaded to part with her <hi>Chastity,</hi> in hopes the <hi>City</hi> is big enough to <hi>hide</hi> her <hi>shame;</hi> and having once made <hi>bold</hi> with her <hi>Conscience,</hi> sticks not to <hi>Steal</hi> what she can lay her <hi>Fingers</hi> on, towards the <hi>Expence</hi> of <hi>her</hi> Journey: Put case she comes up <hi>Honest,</hi> so many <hi>Bawds</hi> Ply the <hi>Carrier's Inns,</hi>
+                  <pb n="29" facs="tcp:39082:19"/> to Insnare silly <hi>Wenches,</hi> that 'tis odds but she gets a great <hi>Belly</hi> before a <hi>Service,</hi> and then in few Months, over-run with some foul <hi>Disease,</hi> turns <hi>Beggar,</hi> and becomes <hi>uncomfortable</hi> to <hi>her self,</hi> and <hi>unprofitable</hi> to the <hi>Kingdom.</hi>
+               </p>
+               <p>Now as for such poor <hi>Wretch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s <hi>Children,</hi>
+                  </hi> if not <hi>Destroyed</hi> in the <hi>Womb,</hi> or at the <hi>Birth,</hi> yet being bred up in <hi>Beggery</hi> and <hi>Laziness,</hi> they become of <hi>unhealth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ul Bo<g ref="char:EOLhyphen"/>dies,</hi> and more then ordinary <hi>subject</hi> to many loathsome <hi>Diseases,</hi> whereof very many <hi>dye</hi> in their tender <hi>Age;</hi> and such as arrive to <hi>years</hi> of <hi>Strength,</hi> by idle <hi>Habits</hi> contracted in their <hi>Youths,</hi> are rendred for ever <hi>unapt</hi> and <hi>undispo<g ref="char:EOLhyphen"/>sed</hi> to <hi>Labour,</hi> and serve only to <hi>stock</hi> the <hi>King<g ref="char:EOLhyphen"/>dom</hi> with <hi>Thieves</hi> and <hi>Beggars.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>The <hi>Acres</hi> of <hi>Land</hi> in <hi>England,</hi> are above <hi>four</hi> times as <hi>many</hi> as its <hi>People,</hi> and <hi>those</hi> of <hi>Wales, <hi>ten</hi>
+                  </hi> times more in <hi>Number</hi> than its <hi>Inhabitants,</hi> consequently <hi>Work</hi> can<g ref="char:EOLhyphen"/>not be wanting in the <hi>Country;</hi> what then brings <hi>them</hi> up to <hi>London</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>
+                  <hi>Discontent, Curiosity,</hi> hopes of <hi>greater <hi>Wages,</hi>
+                  </hi> or of <hi>Living <hi>lazier Lives.</hi>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>In <hi>Amsterdam <hi>we</hi>
+                  </hi> think numbers of <hi>hands</hi> fit for <hi>labour,</hi> rather force <hi>Industry,</hi> than <hi>breed <hi>Beggars.</hi>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>That's no wonder, since the <hi>Sea-Har<g ref="char:EOLhyphen"/>vest</hi> of your <hi>Fishery</hi> is so great, all your <hi>Labourers</hi> prove too <hi>few,</hi> and <hi>Work</hi> still
+<pb n="30" facs="tcp:39082:20"/> encreaseth <hi>faster</hi> than your <hi>Hands.</hi> But it is not so with <hi>us;</hi> for in <hi>London</hi> there are<note n="(b)" place="bottom">
+                     <hi>Sir</hi> William Petty.</note> about 695076 <hi>Souls,</hi> who by their <hi>ordina<g ref="char:EOLhyphen"/>ry</hi> proportion of <hi>Breeding</hi> and <hi>Dying,</hi> dou<g ref="char:EOLhyphen"/>ble their <hi>Numbers</hi> in<note n="(c)" place="bottom">
+                     <hi>Grant</hi>'s Observations on the Bills of Mortality.</note> 64 Years; which be<g ref="char:EOLhyphen"/>ing considered, and the <hi>great</hi> Concourse of <hi>Foreigners,</hi> it will plainly appear, that <hi>Lon<g ref="char:EOLhyphen"/>don</hi> wants not <hi>Hands</hi> from the <hi>Country,</hi> but on the contrary out of its <hi>own</hi> Produce, can spare many for <hi>our</hi> Plantations.</p>
+               <p>Nevertheless, <hi>London</hi> encreaseth<note n="(d)" place="bottom">Ditto.</note>
+                  <hi>Six thou<g ref="char:EOLhyphen"/>sand</hi> yearly, by the Afflux of <hi>People</hi> out of the <hi>Country,</hi> whose little Money brought with them being <hi>spent,</hi> they (<hi>or as many poor</hi> Londoners <hi>in their places</hi>) for want of Employment must turn <hi>Beggars,</hi> if not <hi>worse.</hi>
+               </p>
+               <p>For Suppose in <hi>London</hi> but <hi>One thousand</hi> People, <hi>Nine hundred</hi> and <hi>twenty</hi> whereof <hi>Ci<g ref="char:EOLhyphen"/>tizens,,</hi> the other <hi>Eighty</hi> new <hi>Comers,</hi> and in all <hi>London,</hi> Employment only for <hi>Nine hundred</hi> and <hi>twenty</hi> Persons, the remaining <hi>Eighty,</hi> must <hi>Beg, Steal, Starve,</hi> or <hi>leave</hi> the <hi>Country (which too many yearly do)</hi> and serve <hi>our</hi> Neighbours, till <hi>(perhaps)</hi> they are knockt on the <hi>head</hi> in their <hi>Quarrels.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="31" facs="tcp:39082:20"/>
+               <speaker>D.</speaker>
+               <p>However, tho' such <hi>Rambling</hi> augments the <hi>Numbers</hi> of <hi>Beggars</hi> in <hi>London,</hi> the <hi>Country</hi> is troubled with so many the few<g ref="char:EOLhyphen"/>er <hi>Vagabonds,</hi> and <hi>reaps</hi> as much <hi>benefit</hi> by their <hi>absence,</hi> as the <hi>City</hi> is dampnified by their <hi>Company.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>On the contrary, for by the <hi>loss</hi> of so many <hi>prolifick</hi> Persons, the increase of the <hi>Pa<g ref="char:EOLhyphen"/>rishes (who had the trouble of breeding them)</hi> is <hi>hindred,</hi> the number of <hi>Labourers</hi> diminished, and <hi>price</hi> of <hi>Work</hi> and <hi>Wages</hi> much <hi>enhan<g ref="char:EOLhyphen"/>ced,</hi> to the great <hi>detriment</hi> of <hi>Husbandry,</hi> and <hi>stop</hi> to <hi>Improvements,</hi> which <hi>(pro tanto) falls Rents,</hi> yet <hi>raiseth</hi> all <hi>Manufactures,</hi> consequent<g ref="char:EOLhyphen"/>ly <hi>lessens</hi> their <hi>Consumption</hi> both at <hi>home</hi> and <hi>a<g ref="char:EOLhyphen"/>broad;</hi> till at length, <hi>Masters</hi> wanting <hi>vent</hi> for their <hi>Commodities;</hi> are obliged to <hi>quit</hi> their <hi>Trades;</hi> and by <hi>turning off</hi> their <hi>Journeymen,</hi> to make whole <hi>Families</hi> of <hi>Beggars</hi> at once.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Well, but to <hi>Return</hi> to our <hi>Discourse</hi> about your <hi>National Fishery.</hi>
+               </p>
+               <p>The <hi>Act <hi>of the</hi>
+                  </hi> 25 <hi>Car.</hi> 2. allows <hi>Recompence</hi> to such as <hi>Export <hi>Corn</hi>
+                  </hi> when it is <hi>cheap;</hi> and the <hi>Act <hi>of the</hi>
+                  </hi> 18 <hi>Car.</hi> 2. prohibits <hi>Importation</hi> of <hi>Irish Cattle,</hi> and all to keep up <hi>Rents</hi> in <hi>England;</hi> now <hi>catching</hi> much <hi>Fish</hi> will make it so <hi>Cheap,</hi> as to <hi>hinder</hi> the <hi>Consumption</hi> of <hi>Flesh,</hi> and so <hi>cause <hi>Rents</hi>
+                  </hi> to <hi>fall.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="32" facs="tcp:39082:21"/>
+               <speaker>E.</speaker>
+               <p>You <hi>catch</hi> so much <hi>Fish</hi> as to make it very <hi>cheap</hi> in <hi>Holland,</hi> yet your <hi>Rents</hi> are <hi>dear,</hi> and <hi>Lands</hi> at <hi>Forty Years</hi> Pur<g ref="char:EOLhyphen"/>chase.</p>
+               <p n="2">2dly, Much <hi>Fish</hi> will occasion the <hi>Expence</hi> of much <hi>Butter,</hi> and make <hi>our <hi>Farmer</hi>
+                  </hi> run much upon <hi>Dairies,</hi> the <hi>Business</hi> where<g ref="char:EOLhyphen"/>of, tho' <hi>performed</hi> by <hi>Women,</hi> turns to as <hi>great</hi> Advantage as the hardest <hi>Labour</hi> the <hi>Husbandman</hi> can <hi>employ</hi> his time in. Put case the <hi>Market</hi> should be over-stockt at Home, <hi>English Butter</hi> is too good a Commodity in <hi>Flanders, France, Spain, Portu<g ref="char:EOLhyphen"/>gal,</hi> &amp;c. ever to want vent abroad.</p>
+               <p n="3">3dly, Catching much <hi>Fish</hi> will give <hi>work</hi> to many <hi>Thousands</hi> of both <hi>Sexes,</hi> who, tho' now <hi>(through Poverty)</hi> live only on <hi>Bread, Water, Pulse, Roots,</hi> and the like, yet when they come to have the <hi>Rewards</hi> of their <hi>Labours</hi> in their <hi>Hands,</hi> will not <hi>punish</hi> their <hi>Carcasses</hi> to spare their <hi>Purses,</hi> but turn <hi>House<g ref="char:EOLhyphen"/>keepers,</hi> drink <hi>Strong Beer,</hi> eat <hi>Roast Beef,</hi> &amp;c.</p>
+               <p n="4">4thly, Catching much <hi>Fish,</hi> as it makes <hi>Provisions</hi> Cheaper, will <hi>(morally speaking)</hi> ren<g ref="char:EOLhyphen"/>der us <hi>less subject</hi> to a <hi>Famine,</hi> which never hap<g ref="char:EOLhyphen"/>pened in <hi>England,</hi> but it <hi>enrich'd <hi>Holland</hi>
+                  </hi> for <hi>seven</hi> Years after; the <hi>Dutch, <hi>Hamburgh<g ref="char:EOLhyphen"/>ers</hi>
+                  </hi> and <hi>Embdeners</hi> having in a <hi>Dearth</hi> for the <hi>Corn,</hi> sold <hi>us</hi> in a <hi>Year</hi> and a <hi>half, (accord<g ref="char:EOLhyphen"/>ing
+<pb n="33" facs="tcp:39082:21"/> to Sir <hi>Walter Raleigh</hi>'s Estimate</hi>) carri<g ref="char:EOLhyphen"/>ed away no less than<note n="(e)" place="bottom">His Observat. on Trade, <hi>fol. 17.</hi>
+                  </note>
+                  <hi>Two Millions of Pounds Sterling,</hi> to the great <hi>Impoverishment</hi> of our <hi>Peo<g ref="char:EOLhyphen"/>ple, discredit</hi> of our <hi>Merchants,</hi> and <hi>dishonour</hi> of our <hi>Land.</hi>
+               </p>
+               <p n="5">5thly, The cheaper our <hi>Provisions</hi> are, the more <hi>Navigation</hi> is Encouraged, more <hi>Foreign</hi> Ships will Victual with <hi>us,</hi> and <hi>fewer</hi> of ours in <hi>Ireland;</hi> and the more <hi>Beef, Pork,</hi> &amp;c. shall we <hi>Export</hi> to <hi>Barbadoes, Iamaica,</hi> &amp;c. so that supposing <hi>Meat</hi> should not always remain at a very excessive <hi>Rate,</hi> yet where a <hi>greater</hi> Consumption causeth a <hi>quick</hi> Market, tho' at a midling Price, If the <hi>Proverb</hi> be true, <hi>Light Gains will make a Heavy Purse.</hi>
+               </p>
+               <p n="6">6thly, <hi>Gold</hi> and <hi>Silver</hi> Mines <hi>Eng<g ref="char:EOLhyphen"/>land</hi> hath none; and in <hi>(time of Peace)</hi> no way to get <hi>Bullion</hi> but by <hi>Foreign</hi> Traffick, to which nothing can more conduce than <hi>cheap <hi>Fishing,</hi>
+                  </hi> and <hi>cheap <hi>Working,</hi>
+                  </hi> and <hi>Manu<g ref="char:EOLhyphen"/>facturing</hi> the <hi>Commodities</hi> which compose the <hi>Exports</hi> of our <hi>Kingdom,</hi> and that is not to be effected except <hi>Labour</hi> be <hi>Cheap,</hi> which <hi>it</hi> can never be where <hi>Provisions</hi> are dear; but the cheaper our <hi>Provisions</hi> are, the cheap<g ref="char:EOLhyphen"/>er our <hi>Exports</hi> may be <hi>afforded,</hi> consequent<g ref="char:EOLhyphen"/>ly
+<pb n="34" facs="tcp:39082:22"/> the more <hi>vent</hi> we shall have for them, and much <hi>vent</hi> will cause many <hi>Workmen,</hi> and when the Wheel is set a going, <hi>Trade</hi> begets <hi>Trade,</hi> as <hi>Fir<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> begets <hi>Fire;</hi> and the more <hi>Trade</hi> en<g ref="char:EOLhyphen"/>creaseth, the more will <hi>Industrious</hi> People <hi>(from all Parts)</hi> flock to <hi>us,</hi> and <hi>Tennant</hi> our <hi>Houses, Enclose</hi> our <hi>Wasts, <hi>Improve</hi>
+                  </hi> our <hi>Lands, <hi>Encrease</hi>
+                  </hi> our <hi>Manufactures,</hi> and <hi>Enlarge</hi> our <hi>Products</hi> far beyond the whole <hi>Expence</hi> of our <hi>Nation;</hi> and thereby <hi>(in proportion)</hi> add to its <hi>Wealth</hi> and <hi>Trea<g ref="char:EOLhyphen"/>sure,</hi> for <hi>Merchants <hi>Exporting</hi>
+                  </hi> the <hi>Surplus,</hi> will in Returns bring back <hi>Gold, Silver,</hi> and other valuable Commodities, which in <hi>England (that hath Property)</hi> by Succession of Contracts, will <hi>diffuse</hi> among its <hi>Inhabitants;</hi> and thus, as the <hi>Number</hi> of the <hi>Persons</hi> made <hi>Rich</hi> by their <hi>Labour</hi> and <hi>Industry</hi> en<g ref="char:EOLhyphen"/>crease, and the <hi>Choice</hi> of <hi>Tennants</hi> and <hi>Chapmen</hi> are <hi>Enlarged,</hi> a kind of <hi>Competiti<g ref="char:EOLhyphen"/>on</hi> amongst them, <hi>must</hi> and <hi>will</hi> make <hi>Rents</hi> and <hi>Lands</hi> advance in <hi>proportion;</hi> Witness <hi>Holland,</hi> and such of <hi>our <hi>Lands</hi>
+                  </hi> in all <hi>Countries,</hi> as Ive near <hi>great</hi> and <hi>populous <hi>Cor<g ref="char:EOLhyphen"/>porations.</hi>
+                  </hi> So true is it, That <hi>Trade and Lands are Twins that always wax and wain together.</hi>
+               </p>
+               <p>Lastly, how our <hi>Parliament</hi> will like a <hi>National Fishery,</hi> you may <hi>guess</hi> by the <hi>Preamble</hi> of an <hi>Act,</hi> passed in the 14 <hi>Car.</hi> 2.
+<pb n="35" facs="tcp:39082:22"/>
+                  <hi>cap.</hi> 28. Wherein 'tis declared, <q>That the Publick Honour, Wealth and Safety of this Realm, as well in the Main<g ref="char:EOLhyphen"/>tenance of Trade, and Support of Navigation, as in many other respects doth in an high degree depend upon the Improvement and Encouragement of the Fishery.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>However, as a <hi>Friend</hi> I advise <hi>you</hi> not to Concern <hi>your</hi> self in the <hi>Fishery,</hi> for in <hi>Holland <hi>we</hi>
+                  </hi> have <hi>Money</hi> at <hi>Three,</hi> whereas the <hi>Trade</hi> of <hi>England</hi> is burthened with <hi>Six <hi>per Cent.</hi>
+                  </hi> Interest, consequently <hi>you</hi> can never keep pace with <hi>us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Why do <hi>you</hi> not <hi>(for the same Reason)</hi> advise <hi>all</hi> my <hi>Countrymen</hi> to forbear <hi>Trading</hi> to <hi>East-India, Turkey, Spain, France, Italy, Portugal,</hi> &amp;c. nay to quit <hi>all <hi>Na<g ref="char:EOLhyphen"/>vigation,</hi>
+                  </hi> and <hi>abandon <hi>our</hi>
+                  </hi> selves to the <hi>next</hi> Comers; was it not the <hi>Fishing Trade</hi> gave <hi>rise</hi> to all your <hi>Wealth,</hi> and as <hi>Money</hi> grew <hi>plen<g ref="char:EOLhyphen"/>tiful</hi> in <hi>Holland,</hi> did not <hi>Lands</hi> rise gradual<g ref="char:EOLhyphen"/>ly to near <hi>Forty Years</hi> Purchase, and <hi>In<g ref="char:EOLhyphen"/>terest</hi> fall by degrees, from <hi>Eight</hi> to <hi>Three per Cent.</hi> Why then may not we expect, That a <hi>National Fishery</hi> will <hi>do</hi> the same in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and <hi>(pro tanto)</hi> be a means to <hi>regain</hi> our <hi>Muscovy, Greenland, Norway,</hi> and <hi>East-Country <hi>Trades;</hi>
+                  </hi> for <hi>still as Trade by Encreasing of Wealth, causeth an A<g ref="char:EOLhyphen"/>batement
+<pb n="36" facs="tcp:39082:23"/> of Interest, Abatement of Interest will yet cause a further Encrease of Crade.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>The <hi>Dutch</hi> are already settled in the <hi>Fishing <hi>Trade.</hi>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Stately <hi>Genoa</hi> that once Employed <hi>Forty thousand Hands</hi> in the <hi>Silken Manu<g ref="char:EOLhyphen"/>facture,</hi> declines now as <hi>fast</hi> as <hi>her</hi> formerly <hi>neglected</hi> Neighbour <hi>Leghorn</hi> riseth: And if the <hi>French King</hi> continues to <hi>court</hi> all the <hi>World</hi> with <hi>popular</hi> Immunities, <hi>Leghorn <hi>(in time)</hi>
+                  </hi> must give place to <hi>her</hi> Sister <hi>Marseilles.</hi>
+               </p>
+               <p>The <hi>King</hi> of <hi>Portugal</hi> having discovered the <hi>Passage</hi> to the <hi>East-Indies,</hi>
+                  <note n="(f)" place="bottom">
+                     <hi>Anno</hi> 1500.</note> by the <hi>Cape</hi> of <hi>Good Hope,</hi> and so diverted the <hi>course</hi> of <hi>Trade,</hi> driven by the <hi>Venetians</hi> from <hi>A<g ref="char:EOLhyphen"/>lexandria,</hi> and the <hi>Red-Sea,</hi> to his Port of <hi>Lisbon,</hi> kept <hi>Factors</hi> at <hi>Antwerp</hi> to vend there his <hi>Indian</hi> Commodities, which drew several <hi>Merchants</hi> from divers parts to reside there, and made that <hi>pleasant seated City</hi> the <hi>Pack-house</hi> of <hi>Europe.</hi> But when the <hi>Dutch</hi> also<note n="(g)" place="bottom">
+                     <hi>Anno</hi> 1602.</note> found the way to the <hi>Indies,</hi> and began to rival <hi>Portugal</hi> in that <hi>Trade,</hi> Mer<g ref="char:EOLhyphen"/>chants resolving not to <hi>loose</hi> the advantage of their <hi>Skill</hi> in <hi>Indian Commodities,</hi> by removing to <hi>Amsterdam,</hi> improved their own <hi>Estates,</hi> but ruined <hi>Antwerp.</hi>
+               </p>
+               <pb n="37" facs="tcp:39082:23"/>
+               <p>Thus you see <hi>Trade <hi>(like the</hi> Sea <hi>its Ele<g ref="char:EOLhyphen"/>ment)</hi>
+                  </hi> often <hi>Ebbs</hi> and <hi>Flows</hi> from <hi>one</hi> place to <hi>another;</hi> not many years since <hi>we <hi>Imported Silk Stockings</hi>
+                  </hi> from the <hi>Levant,</hi> but now the <hi>Tide</hi> is <hi>turned,</hi> and <hi>we</hi> send them <hi>thither.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>
+                  <hi>Projects</hi> in <hi>England</hi> have <hi>(of late) proved</hi> very unsuccessful.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>What tho' some Men have run upon wild Notions, and catching at <hi>Shadows</hi> lost their <hi>Substance▪</hi> that's no Objection against the <hi>Na<g ref="char:EOLhyphen"/>tional Fishery,</hi> which is a <hi>Certainty,</hi> for the <hi>Sea</hi> yields <hi>her <hi>Fish,</hi>
+                  </hi> as well as the <hi>Earth <hi>her</hi> Fruit</hi> in <hi>due</hi> Season, and <hi>Neptune</hi> hath been <hi>far</hi> more bountiful to <hi>you</hi> than <hi>Ce<g ref="char:EOLhyphen"/>res.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>After all our Discourse, Pray <hi>Sir,</hi> have you Drawn up a Method for the Establishing a <hi>National Fishery</hi> in <hi>England?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>I have made an Essay, but find the well-settling a <hi>National Fishery</hi> requires far bet<g ref="char:EOLhyphen"/>ter heads than mine.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>However let's see the <hi>Concept.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Here it is, <hi>Sir,</hi> but done in hast, and may receive <hi>Alterations</hi> or <hi>Additions</hi> upon Con<g ref="char:EOLhyphen"/>sideration.</p>
+            </sp>
+            <stage>
+               <pb n="38" facs="tcp:39082:24"/> Dutchman Reads.</stage>
+            <sp>
+               <p n="1">1. THAT towards raising a Joint Stock for Employing the Poor in a National Fishery, a Million be Subscribed.</p>
+               <p n="2">2. That the Money Subscribed be called <hi>Stock,</hi> and be Assignable.</p>
+               <p n="3">3. That every Subscriber at the time of such their Subscription, Pay to . . . . . . . . . . one full fourth part of his, her, or their re<g ref="char:EOLhyphen"/>spective Subscriptions, and in default of such Payment, every such Subscription to be utterly void and null.</p>
+               <p n="4">4. That the residue of the said Subscripti<g ref="char:EOLhyphen"/>ons be paid by such Proportions, and at such Days and Times, as by a General Court of the said Subscribers shall from time to time be appointed: And in default of such Payment, that then the fourth part, first paid, as afore<g ref="char:EOLhyphen"/>said, be Forfeited to the use of the Corpora<g ref="char:EOLhyphen"/>tion herein after mentioned, their Successors and Assigns.</p>
+               <p n="5">5. That the Subscribers be Incorporated by Act of Parliament (<hi>by the Name of The Corpo<g ref="char:EOLhyphen"/>ration for Employing the Poor of</hi> England <hi>in a National Fishery</hi>) with perpetual Succession.</p>
+               <p n="6">
+                  <pb n="39" facs="tcp:39082:24"/>6. That at a General Court to be held for the said Corporation, Thirty be chosen out of the said Subscribers, by Plurality of Votes, and presented to the Parliament.</p>
+               <p n="7">7. That out of the said Thirty, Ten be Nominated Fathers of the Poor, and Directors of the National Fishery by both Houses of Par<g ref="char:EOLhyphen"/>liament, approved by his Majesty, and Accoun<g ref="char:EOLhyphen"/>table to them for their Trust.</p>
+               <p n="8">8. That in Case of Vacancy <hi>(by the Death or Misdemeanour)</hi> of any one of the said Fa<g ref="char:EOLhyphen"/>thers of the Poor <hi>(during Sessions of Parliament)</hi> the said Corporation to present Three, out of which his Majesty and Parliament to Nomi<g ref="char:EOLhyphen"/>nate One, as before, and so <hi>toties quoties.</hi> But in case the Parliament shall not be then Sitting, that such Vacancies be filled up by the Majo<g ref="char:EOLhyphen"/>rity of the surviving Fathers, until next Sessions of Parliament, and then the Corporation to present, and King and Parliament to approve, as before.</p>
+               <p n="9">9. That such Fathers be Impowered to Constitute under the Seal of the said Corpo<g ref="char:EOLhyphen"/>ration, a sufficient number of Deputies in each County in <hi>England;</hi> And that such Deputies be, and be called, <hi>Stewards of the Poor.</hi>
+               </p>
+               <p n="10">10. That the said Fathers, and such Stew<g ref="char:EOLhyphen"/>ards of the Poor be exempted from all Parish Offices.</p>
+               <p n="11">
+                  <pb n="40" facs="tcp:39082:25"/>11. That the said Fathers, and such their Stewards be vested with all Authority now in Justices of the Peace; and that all Parish Of<g ref="char:EOLhyphen"/>ficers be subordinate and accountable to the said Fathers and such their Stewards, in all things <hi>(only)</hi> relating to the Poor.</p>
+               <p n="12">12. That the said Fathers and Stewards have freedom to set the Poor on Work, about such of the said Trades relating to the Fishery, as they shall think fit, with a <hi>non obstante</hi> to all Patents that have been, or shall be Grant<g ref="char:EOLhyphen"/>ed.</p>
+               <p n="13">13. That to prevent People from being op<g ref="char:EOLhyphen"/>prest, and ground to Poverty by Pawn-Brokers, that screw out of them Forty or Fifty <hi>per Cent.</hi> the said Fathers may be allowed to Erect Lum<g ref="char:EOLhyphen"/>ber Offices in every City and Town in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> exclusive of all others, upon Condi<g ref="char:EOLhyphen"/>tion they take not above <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+                  <hi>per Cent. per Annum.</hi>
+               </p>
+               <p n="14">14. That in all Churches <hi>(as in Holland)</hi> at every solemn Assembly, the Church-War<g ref="char:EOLhyphen"/>dens with a long Staff, Bag, and Bell, during the Sermon, receive the Charitable Benevo<g ref="char:EOLhyphen"/>lence of the whole Congregacion, and pay the same to the said Fathers, who shall cause a true accoun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be kept thereof, and apply it to the Erecting Hospitals in <hi>London,</hi> and other great Cities, wherein poor Women, near the time of their Travel, may be received and careful<g ref="char:EOLhyphen"/>ly
+<pb n="41" facs="tcp:39082:25"/> delivered, and remain till they are in a Con<g ref="char:EOLhyphen"/>dition to return home and follow their Work; and if at the Year's end, any Over-plus of such Collections remain, that the same be yearly applied for Marrying poor Maids.</p>
+               <p n="15">15. That until the Business of the Fishery be sufficient alone to give Employment to all our Poor, <hi>(or at least during Ten Years next after the Establishing a National Fishery)</hi> the said Fathers and Stewards of the Poor, may be impower<g ref="char:EOLhyphen"/>ed to Imploy such of them as they shall think fit, in Erecting Free Schools, Hospitals, Work-houses, and Ware-houses for the Corporation, in making Enclosures, in repairing Sea-Banks, Draining Fens, cleansing and deepning Rivers and Havens, in Building and Repairing Chur<g ref="char:EOLhyphen"/>ches, Bridges and Causeways, in mending Roads, in planting Oaks near Navigable Ri<g ref="char:EOLhyphen"/>vers, and Fruit Trees in Inland Countries; also in cleansing of Streets, Common Shores, and the like.</p>
+               <p n="16">16. That the said Fathers of the Poor be Impowered to send such Refractory Poor as they shall think fit, to serve in his Maje<g ref="char:EOLhyphen"/>sties Plantations, taking Security for their comfortable Maintenance during their Service, and for their Freedom afterwards.</p>
+               <p n="17">17. That all the Poors Rates in <hi>England,</hi> be Collected as formerly, by the Church-Wardens of each Parish, and by them quar<g ref="char:EOLhyphen"/>terly
+<pb n="42" facs="tcp:39082:26"/> paid in, to the Treasury of the said Cor<g ref="char:EOLhyphen"/>poration, as a Recompence for their Providing for the Poor, and freeing the Nation from Beg<g ref="char:EOLhyphen"/>gars.</p>
+               <p n="18">18. That the Million Subscribed be always kept intire, as a Security to Indempnify the Nation against the charge of the Poor, and the Income and Profits be only divided amongst the Subscribers.</p>
+               <p n="19">19. That the Treasure of the said Cor<g ref="char:EOLhyphen"/>poration be accounted as Sacred, and that it be Felony to Imbezel, Lend, Convert, or Ap<g ref="char:EOLhyphen"/>ply the same to any other Use, than maintain<g ref="char:EOLhyphen"/>ing the Poor, or carrying on the Business of the Fishery.</p>
+               <p n="20">20. That the said Fathers may buy up, when cheap, a certain quantity of Corn, Coals, &amp;c. yearly, and lodge the same in their Gra<g ref="char:EOLhyphen"/>naries, for the use of the Poor, but not make Merchandize of them, or sell them again in <hi>England.</hi>
+               </p>
+               <p n="21">21. That the Stock in the said Fishery, be not chargeable with any Rates Duties, or Impo<g ref="char:EOLhyphen"/>sitions whatsoever.</p>
+               <p n="22">22. That Debts due to the Fishery, for Goods by them, <hi>bona fide</hi> Sold and Delivered, take Preference of all others, except those due to the King.</p>
+               <p n="23">
+                  <pb n="43" facs="tcp:39082:26"/>23. That all Persons may Fish as former<g ref="char:EOLhyphen"/>ly, and Sell what they catch in <hi>England,</hi> but none Export any Fish but the National Fish<g ref="char:EOLhyphen"/>ery, without paying them <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+                  <hi>per Cent.</hi>
+               </p>
+               <p n="24">24. That his Majesty may be Addressed to grant Leases to the said National Fishery, of all Wasts and Derelict Lands; and that they may be Impowered to recover to their own use all such Lands as have lain Ten or more Years under Water.</p>
+               <p>
+                  <hi>Lastly,</hi> That all Powers, Priviledges, Benefits and Advantages, allowed by the <hi>Dutch, French, Spanish, Venetians, Flanderkins</hi> or <hi>Hamburghers,</hi> to Fishermen, or Merchants Trading in Fish, may be enjoyed by the said Corporation, to<g ref="char:EOLhyphen"/>gether with such other Immunities as shall be thought convenient.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Av marry Sir, by this method <hi>you</hi> might <hi>out-fish <hi>us</hi>
+                  </hi> in good earnest; but give me leave to observe,</p>
+               <p>
+                  <hi>First,</hi> That should you go about to Employ your <hi>Beggars</hi> in such <hi>Laborious</hi> and <hi>unplea<g ref="char:EOLhyphen"/>sant</hi> Business as is mentioned in the <hi>Fifteenth Ar<g ref="char:EOLhyphen"/>ticle,</hi> the better <hi>half</hi> of your <hi>Ramblers</hi> would be frighted back to their <hi>Rural Employments,</hi> and betake themselves to so much <hi>Christ</hi> and <hi>In<g ref="char:EOLhyphen"/>dustry,</hi> as to Maintain themselves without your Assistance.</p>
+               <pb n="44" facs="tcp:39082:27"/>
+               <p>
+                  <hi>Secondly,</hi> That there are few <hi>Beggars</hi> so <hi>Old</hi> and <hi>Decrepit,</hi> but that they are <hi>Able</hi> to do <hi>some <hi>Work</hi>
+                  </hi> or other, especially such as <hi>Braiding</hi> or <hi>Beeting Nets,</hi> making <hi>Swills</hi> and <hi>Baskets</hi> cutting <hi>Corks,</hi> cast<g ref="char:EOLhyphen"/>ing <hi>Leads,</hi> making <hi>Norsells,</hi> Spinning <hi>Twine, <hi>Gipping</hi>
+                  </hi> and <hi>Speeting <hi>Herrings,</hi> pick<g ref="char:EOLhyphen"/>ing <hi>Oakum,</hi>
+                  </hi> and the like. Yea the very <hi>Blind</hi> may be useful in turning <hi>Wheels:</hi> Although their <hi>Earnings</hi> at such <hi>Works</hi> should be but <hi>small,</hi> yet if they be <hi>constant,</hi> it will more then pay for their <hi>Maintenance.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> Not to mention the <hi>Profit</hi> that would immediately <hi>accrew,</hi> by <hi>letting out <hi>sturdy Beg<g ref="char:EOLhyphen"/>gars,</hi>
+                  </hi> of <hi>both</hi> Sexes, for performing the busi<g ref="char:EOLhyphen"/>ness in the said <hi>Fifteenth Article</hi> mentioned; yet, if according to the <hi>Twelfth, <hi>Girls</hi>
+                  </hi> be obliged to serve the <hi>Corporation</hi> till they are <hi>One and Twenty,</hi> and <hi>Boys</hi> till <hi>Twenty four</hi> Years of Age; in that time <hi>(such as live)</hi> will earn a<g ref="char:EOLhyphen"/>bove ten times as much as the chare of <hi>Breeding</hi> and <hi>Instructing</hi> them; which makes me conclude, that the <hi>Parliament</hi> of <hi>England</hi> will never <hi>grant</hi> both the <hi>great Benefit</hi> of <hi>Employing</hi> the <hi>Poor,</hi> together with the <hi>Poors-Rate, <hi>(which in the latter end of the Reign of King</hi>
+                  </hi> Charles <hi>the</hi> 2d, <hi>came to</hi>
+                  <note n="(h)" place="bottom">Essay on Ways and Means, <hi>Fol. 77.</hi>
+                  </note> 665362 l. <hi>Sterling,</hi> per Ann. <hi>and now amounts to much more</hi>) to any <hi>Corporati<g ref="char:EOLhyphen"/>on</hi> or set of <hi>men</hi> whatsoever.</p>
+            </sp>
+            <sp>
+               <pb n="45" facs="tcp:39082:27"/>
+               <speaker>E.</speaker>
+               <p>Allowing your <hi>first <hi>Observation</hi>
+                  </hi> true, Would it not still be <hi>much</hi> better for <hi>England,</hi> then that <hi>Idleness</hi> should continue to <hi>suck</hi> the <hi>Breasts</hi> of <hi>Industry;</hi> and that such as are <hi>able</hi> to <hi>Work</hi> should live upon the <hi>Publick,</hi> with<g ref="char:EOLhyphen"/>out return of <hi>Labour</hi> for their <hi>Bread.</hi>
+               </p>
+               <p>As for your <hi>second <hi>Observation,</hi>
+                  </hi> it's An<g ref="char:EOLhyphen"/>swered, that a <hi>Constant</hi> Employment of such <hi>Impotent <hi>Poor,</hi>
+                  </hi> will not only be a continual <hi>ease</hi> and <hi>comfort</hi> to <hi>them,</hi> by <hi>amusing</hi> and <hi>diverting them,</hi> from <hi>thinking</hi> of their <hi>Poverty</hi> and o<g ref="char:EOLhyphen"/>ther <hi>Miseries,</hi> but in some measure be a <hi>re-peopling</hi> of <hi>us</hi> too, by adding so many lost <hi>Hands</hi> to the <hi>Service</hi> of the <hi>Publick.</hi>
+               </p>
+               <p>Again, Granting your <hi>third <hi>Observation</hi> true,</hi> yet it is as <hi>true,</hi> that it is as much more <hi>Charity</hi> to put the <hi>Poor</hi> in a way to live by <hi>honest <hi>Labour,</hi>
+                  </hi> than to <hi>maintain</hi> them <hi>Idle,</hi> as it is to set a Man's <hi>broaken <hi>Leg</hi>
+                  </hi> that he may <hi>go</hi> himself, <hi>rather</hi> than always to <hi>carry</hi> him.</p>
+               <p>Now such <hi>Boys</hi> as are the <hi>Corporations <hi>Prentices,</hi>
+                  </hi> being in the <hi>Fishing</hi> Seasons <hi>employed</hi> at <hi>Sea,</hi> and at <hi>other</hi> times <hi>working</hi> on <hi>Shore,</hi> at that of the said <hi>Thirty four <hi>Trades</hi>
+                  </hi> relating to the <hi>Fishery</hi> to which <hi>they</hi> were bound, when <hi>their</hi> times are Out, will <hi>all</hi> of <hi>them</hi> be able to get a Livelihood <hi>either</hi> at <hi>Sea</hi> or <hi>Land;</hi> and if to render <hi>them,</hi> more capa<g ref="char:EOLhyphen"/>ble of <hi>Serving</hi> our <hi>Country,</hi> the Corporation <hi>(at four a Clock each Saturday in the Afternoon)</hi> should
+<pb n="46" facs="tcp:39082:28"/> cause them when <hi>(on Shore)</hi> to <hi>Muster</hi> and <hi>Exercise, <hi>(altho' only with Staves)</hi>
+                  </hi> and for Di<g ref="char:EOLhyphen"/>version to play at <hi>Cudgels</hi> or <hi>Fence,</hi> and <hi>Reward</hi> the <hi>Conquerors</hi> with <hi>Liberty</hi> of wearing a <hi>small <hi>Ribbon,</hi>
+                  </hi> whose distinguishing <hi>Colour</hi> of <hi>Red, Blew,</hi> &amp;c. should <hi>Entitle</hi> them to be called <hi>Captains, Lieutenants,</hi> &amp;c. by the rest of their <hi>fellow Servants,</hi> till next weeks <hi>Tri<g ref="char:EOLhyphen"/>al</hi> of <hi>Skill;</hi> how soon would <hi>Emulation</hi> beget <hi>Address?</hi> and what a <hi>Treasure</hi> and <hi>Strength</hi> to <hi>England</hi> would such a <hi>Sea Militia</hi> be al<g ref="char:EOLhyphen"/>ways <hi>ready</hi> for <hi>Service</hi> both by <hi>Sea</hi> and <hi>Land,</hi> and yet <hi>no</hi> charge to the <hi>Nation</hi> till actually in it.</p>
+               <p>And as for your <hi>Conclusion,</hi> should our <hi>Par<g ref="char:EOLhyphen"/>liament</hi> think the <hi>Concessions</hi> too great for <hi>such</hi> a <hi>Corporation,</hi> they might easily <hi>ballance</hi> the <hi>Scale,</hi> either by limiting the <hi>Subscriptions</hi> to such as were <hi>rated</hi> as <hi>Gentlemen,</hi> or <hi>higher</hi> in the first <hi>Poll Tax,</hi> allowing them to <hi>Subscribe</hi> in pro<g ref="char:EOLhyphen"/>portion only to what they paid, or else (<hi>as in the Business of the New</hi> East-India <hi>Company</hi>) the <hi>Charter</hi> may be granted to such <hi>Subscribers</hi> as shall advance to the <hi>Government</hi> a Loan of . . . . Pounds, at 6 <hi>l. per Cent.</hi> Interest.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Were all this done, Where will you find a set of <hi>honest men</hi> to manage the Business in <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>In <hi>Amsterdam</hi> you have your <hi>Church-Wardens, Directors</hi> of your <hi>Dulhouse,</hi> of your
+<pb n="47" facs="tcp:39082:28"/>
+                  <hi>Rasp-house,</hi> of your <hi>Spin-house,</hi> of your <hi>Old-Mans-house,</hi> &amp;c. Commissioners of your <hi>Cleyne Saeker,</hi> of your <hi>Levant Trade,</hi> of your <hi>Zea Saeken,</hi> &amp;c. also your <hi>Vroedschap,</hi> your <hi>Schepens,</hi> and your <hi>Burgemasters,</hi> all which are places of far more Trouble than Profit, yet <hi>(being the usual steps to Preferment)</hi> are most an end <hi>officiated</hi> without <hi>Reproach:</hi> Not for that the <hi>Dutch</hi> are <hi>honest<g ref="char:EOLhyphen"/>er</hi> Men then their <hi>Neighbours,</hi> but because such as are found <hi>Tardy</hi> in any of these <hi>Employments,</hi> are barred all <hi>future</hi> hopes of <hi>Advancement:</hi> And should our <hi>Parliament</hi> Address his <hi>Majesty</hi> to prefer in the <hi>Custom-house, Excise,</hi> &amp;c. <hi>such</hi> as had well behaved themselves in the <hi>Fishery;</hi> and make <hi>Breach</hi> of <hi>Trust</hi> therein to <hi>Incapacitate</hi> men for . . . . Years, from <hi>serving</hi> the <hi>Government</hi> in <hi>any</hi> Employment ei<g ref="char:EOLhyphen"/>ther <hi>Military</hi> or <hi>Civil (how small Wages soever the Corporation allowed) they</hi> would never want good <hi>Servants,</hi> that <hi>Voluntier</hi> like would <hi>vie</hi> with <hi>each</hi> other, who should <hi>best</hi> serve their <hi>Coun<g ref="char:EOLhyphen"/>try,</hi> by <hi>most</hi> promoting its <hi>Fishery.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Well, When the <hi>English</hi> settle such a <hi>National Fishery,</hi> as my <hi>Grandfather</hi> aban<g ref="char:EOLhyphen"/>doned <hi>Antwerp</hi> when its Trade began to de<g ref="char:EOLhyphen"/>cay, and removed to <hi>Amsterdam,</hi> so I'll bid <hi>Adiew</hi> to <hi>t'Vaderlandt,</hi> and Remove to <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in the Interim <hi>Farewel.</hi>
+               </p>
+            </sp>
+            <div type="conclusion">
+               <pb n="48" facs="tcp:39082:29"/>
+               <head>CONCLUSION.</head>
+               <p>SEeing a <hi>National Fishery</hi> may be rendred of such mighty <hi>advantage</hi> to our <hi>Country,</hi> and that the <hi>way</hi> to <hi>all</hi> this <hi>Wealth</hi> and <hi>Happiness,</hi> is neither <hi>hedged</hi> up with <hi>Thorns,</hi> nor <hi>hidden</hi> from <hi>us</hi> in the <hi>Dark;</hi> But so <hi>na<g ref="char:EOLhyphen"/>tural</hi> and <hi>facile,</hi> that by only <hi>a Frugal and Industrious Management of Affairs, <hi>(without quarrelling with our Neighbours)</hi> we</hi> may quickly becom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Sole <hi>Masters</hi>
+                  </hi> of the <hi>Fish<g ref="char:EOLhyphen"/>ing Trade.</hi>
+               </p>
+               <p>For shame let not <hi>English-men</hi> longer say,<note place="margin">
+                     <hi>Prov.</hi> 26.18.</note> with <hi>Solomon</hi>'s Sloathful, ☞ <hi>There is a <hi>Lyon</hi> in the Way.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
